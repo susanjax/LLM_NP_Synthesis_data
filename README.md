@@ -9,7 +9,7 @@ This repository consist all the data necessary for traiing LLM to be used for ge
 Aim of the project is to train the model for extracting information about nanomaterials synthesis and characterization from published papers. 
 
 What to do:
-1. Select papers for extraction to <a href=" https://docs.google.com/spreadsheets/d/1ovGaANnqE0F8TRF7cGP3Q3uQ2mowjwkl7Li6WYviFIc/edit?usp=sharing">data table</a>
+1. Select papers for extraction to <a href="https://docs.google.com/spreadsheets/d/1ovGaANnqE0F8TRF7cGP3Q3uQ2mowjwkl7Li6WYviFIc/edit?usp=sharing">data table</a>
 The dataset is supposed to be balanced by type field
 2. create a folder with ID and create input and output JSONs
 3. For input copy blocks of synthesis and characterization
