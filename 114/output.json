@@ -1,0 +1,83 @@
+{'method':['free radical polymerization']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[70],
+'ph':[],
+'precursors':[{"precursor":"N-Isopropylacrylamide (NIPAM)","precursor_conc":4.5,"precursor_mass":5.0},{"precursor":"5-(2-Methacryloylethoxymethyl)-8-hydroxyquinoline (MQ)","precursor_conc":880,"precursor_mass":0.25}],
+'additives':[{"additive":"2,2′-azobisisobutyronitrile (AIBN)","additive_conc":0.93,"additive_mass":0.15}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['p(NIPAM-co-MQ)'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['']}
+
+{'method':['']
+'solvent':['deionized water'],
+'solvent_v':[4.85],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"AgNO3","precursor_conc":20,"precursor_mass":},{"precursor":"5-(2-Methacryloylethoxymethyl)-8-hydroxyquinoline (MQ)","precursor_conc":,"precursor_mass":0.001625}],
+'additives':[{"additive":"NaBH4","additive_conc":500,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['AgNPs@P1'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['']}
+
+{'method':['free radical polymerization']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[70],
+'ph':[],
+'precursors':[{"precursor":"N-Isopropylacrylamide (NIPAM)","precursor_conc":4.5,"precursor_mass":5.0},{"precursor":"5-(2-Methacryloylethoxymethyl)-8-hydroxyquinoline (MQ)","precursor_conc":880,"precursor_mass":0.25}],
+'additives':[{"additive":"2,2′-azobisisobutyronitrile (AIBN)","additive_conc":0.93,"additive_mass":0.15}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['p(NIPAM-co-MQ)'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['']}
+
+{'method':['']
+'solvent':['deionized water'],
+'solvent_v':[4.85],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"AgNO3","precursor_conc":20,"precursor_mass":},{"precursor":"5-(2-Methacryloylethoxymethyl)-8-hydroxyquinoline (MQ)","precursor_conc":,"precursor_mass":0.001625}],
+'additives':[{"additive":"NaBH4","additive_conc":500,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['AgNPs@P1'],
+'sizes':[{"length":3.91,"width":3.91,"depth":3.91}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['']}
+
+{'method':['free radical polymerization']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[70],
+'ph':[],
+'precursors':[{"precursor":"N-Isopropylacrylamide (NIPAM)","precursor_conc":4.5,"precursor_mass":5.0},{"precursor":"5-(2-Methacryloylethoxymethyl)-8-hydroxyquinoline (MQ)","precursor_conc":880,"precursor_mass":0.25}],
+'additives':[{"additive":"2,2′-azobisisobutyronitrile (AIBN)","additive_conc":0.93,"additive_mass":0.15}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['p(NIPAM-co-MQ)'],
+'sizes':[{"length":2.29,"width":2.29,"depth":2.29}],
+'crystalsystem':['cubic'],
+'pdfno':[''],
+'shape':['']}
+
+{'method':['']
+'solvent':['deionized water'],
+'solvent_v':[4.85],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"AgNO3","precursor_conc":20,"precursor_mass":},{"precursor":"5-(2-Methacryloylethoxymethyl)-8-hydroxyquinoline (MQ)","precursor_conc":,"precursor_mass":0.001625}],
+'additives':[{"additive":"NaBH4","additive_conc":500,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['AgNPs@P1'],
+'sizes':[{"length":1.59 ,"width"1.59 ,"depth":1.59 }],
+'crystalsystem':['cubic'],
+'pdfno':[''],
+'shape':['']}

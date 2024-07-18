@@ -1,0 +1,13 @@
+{'method':['']
+'solvent':['ethanol'],
+'solvent_v':[10],
+'temperature':[],
+'ph':[11],
+'precursors':[{"precursor":" Zn(OAc)2","precursor_conc":100,"precursor_mass":20},{"precursor":"Fe3O4/ZrO2 suspension","precursor_conc":,"precursor_mass":0.03},],
+'additives':[{"additive":"NaOH","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Fe3O4/ZrO2/ZnO NP'],
+'sizes':[{"length":10,"width":10,"depth":10}],
+'crystalsystem':['hexagonal'],
+'pdfno':['JCPDS No. 00–027–0997'],
+'shape':['spherical']}

@@ -1,0 +1,13 @@
+{'method':['Biosynthesis']
+'solvent':['Milli-Q water'],
+'solvent_v':[50],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"zinc acetate","precursor_conc":1000,"precursor_mass":}],
+'additives':[{"additive":"Ficus palmata. leaf extract","additive_conc":,"additive_mass":},{"additive":"sodium hydroxide","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO NPs'],
+'sizes':[{"length":35,"width":35,"depth":35}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}

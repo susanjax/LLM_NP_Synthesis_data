@@ -1,0 +1,13 @@
+{'method':[],
+'solvent':['water'],
+'solvent_v':[5],
+'temperature':[90],
+'ph':[],
+'precursors':[{"precursor":"AgNO3","precursor_conc":1,"precursor_mass":}],
+'additives':[{"additive":,"additive_conc":,"additive_mass":}],
+'seeds':[],
+'composition':['Ag'],
+'sizes':[{"length":13.54,"width":13.54,"depth":13.54}],
+'crystalsystem': ['cubic'],
+'pdfno':['JCPD 040783'],
+'shape':['nanorods','triangles','spherical']}

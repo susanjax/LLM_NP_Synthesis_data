@@ -1,0 +1,13 @@
+{'method':['green synthesis'],
+'solvent':['water'],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"AgNO3","precursor_conc":1,"precursor_mass":}],
+'additives':[{"additive":"C. fistula extract","additive_conc":,"additive_mass":}],
+'seeds':[],
+'composition':['Ag'],
+'sizes':[{"length":31.16,"width":31.16,"depth":31.16}],
+'crystalsystem': ['cubic'],
+'pdfno':[],
+'shape':[]}

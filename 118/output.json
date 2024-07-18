@@ -1,0 +1,13 @@
+{'method':['Green synthesis']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"nickel nitrate solution","precursor_conc":2,"precursor_mass":},{"precursor":"Cobalt nitrate solution","precursor_conc":2,"precursor_mass":},{"precursor":"aqueous tin chloride solution","precursor_conc":94,"precursor_mass":}],
+'additives':[{"additive":"Psidium guajava leaf extract","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['SnNiCoO2 NPs'],
+'sizes':[{"length":65,"width":65,"depth":65}],
+'crystalsystem':[''],
+'pdfno':['JCPDS 77–0450'],
+'shape':['spherical']}

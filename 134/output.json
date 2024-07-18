@@ -1,0 +1,55 @@
+{'method':['Hummers’ method']
+'solvent':['MilliQ water'],
+'solvent_v':[400],
+'temperature':[80],
+'ph':[],
+'precursors':[{"precursor":"Hummers’ method","precursor_conc":,"precursor_mass":3}],
+'additives':[{"additive":"sulphuric acid","additive_conc":,"additive_mass":},{"additive":"sodium nitrate","additive_conc":,"additive_mass":1.5},{"additive":"Potassium permanganate","additive_conc":,"additive_mass":9},{"additive":"hydrogen peroxide","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['graphene oxide powder'],
+'sizes':[{"length":17 ,"width":17 ,"depth":17 }],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['micron-scale wrinkled sheets']}
+
+{'method':['Hummers’ method']
+'solvent':['MilliQ water'],
+'solvent_v':[400],
+'temperature':[80],
+'ph':[],
+'precursors':[{"precursor":"Hummers’ method","precursor_conc":,"precursor_mass":3}],
+'additives':[{"additive":"sulphuric acid","additive_conc":,"additive_mass":},{"additive":"sodium nitrate","additive_conc":,"additive_mass":1.5},{"additive":"Potassium permanganate","additive_conc":,"additive_mass":9},{"additive":"hydrogen peroxide","additive_conc":,"additive_mass":},{"additive":"sodium borohydride","additive_conc":0.8,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['reduced graphene oxide powder'],
+'sizes':[{"length":17 ,"width":17 ,"depth":17 }],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['micron-scale wrinkled sheets']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[60],
+'ph':[],
+'precursors':[{"precursor":"zinc sulphate heptahydrate","precursor_conc":100,"precursor_mass":}],
+'additives':[{"additive":"sodium hydroxide","additive_conc":200,"additive_mass":},{"additive":"sodium borohydride","additive_conc":0.8,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO NPs'],
+'sizes':[{"length":13 ,"width":13 ,"depth":13 }],
+'crystalsystem':['hexagonal'],
+'pdfno':['JCPDS: 036–1451'],
+'shape':['irregular']}
+
+{'method':['']
+'solvent':['MilliQ water'],
+'solvent_v':[125],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"zinc sulphate","precursor_conc":100,"precursor_mass":},{"precursor":"graphene oxide","precursor_conc":,"precursor_mass":1}],
+'additives':[{"additive":"sodium hydroxide","additive_conc":200,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO-rGO nanocomposite'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['sheet-like fragments']}

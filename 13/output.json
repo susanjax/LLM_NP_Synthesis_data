@@ -1,0 +1,13 @@
+{'method':['modified chemical precipitation'],
+'solvent':[],
+'solvent_v':[],
+'temperature':[80],
+'ph':[5-6],
+'precursors':[{"precursor":"Cu(NO3)2.3H2O","precursor_conc":20,"precursor_mass":0.09}],
+'additives':[{"additive":"NaOH","additive_conc":1000,"additive_mass":}],
+'seeds':[],
+'composition':['CuO'],
+'sizes':[{"length":8,"width":8,"depth":8}],
+'crystalsystem': [],
+'pdfno':[],
+'shape':['spherical']}

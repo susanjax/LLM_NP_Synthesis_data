@@ -1,0 +1,13 @@
+{'method':['co-precipitation'],
+'solvent':['paraffin'],
+'solvent_v':[30],
+'temperature':[370],
+'ph':[],
+'precursors':[{"precursor":"iron oleate complex ","precursor_conc":,"precursor_mass":16.2}],
+'additives':[{"additive":"oleic acid","additive_conc":,"additive_mass":2.57}],
+'seeds':[],
+'composition':['Fe3O4 NPs'],
+'sizes':[{"length":16,"width":16,"depth":16}],
+'crystalsystem':['cubic'],
+'pdfno':['ICDD 00-019-0629'],
+'shape':['spherical']}

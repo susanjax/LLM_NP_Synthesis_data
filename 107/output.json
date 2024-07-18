@@ -1,0 +1,13 @@
+{'method':['2-dip-2-nip']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[40],
+'ph':[10],
+'precursors':[{"precursor":"silver nitrate salt","precursor_conc":1,"precursor_mass":}],
+'additives':[{"additive":"S. aromaticum extract","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['AgNPs'],
+'sizes':[{"length":19.71,"width":19.71,"depth":19.71}],
+'crystalsystem':['cubic'],
+'pdfno':['JCPDS 04-0783'],
+'shape':['spherical']}

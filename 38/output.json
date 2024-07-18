@@ -1,0 +1,13 @@
+{'method':['one-pot synthesis'],
+'solvent':['water'],
+'solvent_v':[100],
+'temperature':[100],
+'ph':[],
+'precursors':[{"precursor":"HAuCl4•3H2O","precursor_conc":0.1,"precursor_mass":}],
+'additives':[{"additive":"NaBH4","additive_conc":,"additive_mass":0.114}],
+'seeds':[],
+'composition':['Au'],
+'sizes':[{"length":4,"width":4,"depth":4}],
+'crystalsystem': [],
+'pdfno':[],
+'shape':[]}

@@ -1,0 +1,42 @@
+{'method':['']
+'solvent':['distilled water'],
+'solvent_v':[40],
+'temperature':[100],
+'ph':[7],
+'precursors':[{"precursor":"Cobalt nitrate (Co(NO3)2 6H2O)","precursor_conc":200,"precursor_mass":},{"precursor":"iron nitrate (Fe(NO3)3 9H2O)","precursor_conc":200,"precursor_mass":},{"precursor":"citric acid (C6H8O7. H2O)","precursor_conc":400,"precursor_mass":}],
+'additives':[{"additive":"","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['cobalt ferrite NPs'],
+'sizes':[{"length":8.3,"width":8.3,"depth":8.3}],
+'crystalsystem':['cubic'],
+'pdfno':['JCPDS -#22–1086'],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':['distilled water'],
+'solvent_v':[40],
+'temperature':[100],
+'ph':[7],
+'precursors':[{"precursor":"zinc nitrate (Zn(NO3)3 9H2O)","precursor_conc":,"precursor_mass":3},{"precursor":"iron nitrate (Fe(NO3)3 9H2O)","precursor_conc":200,"precursor_mass":},{"precursor":"citric acid (C6H8O7. H2O)","precursor_conc":400,"precursor_mass":}],
+'additives':[{"additive":"","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['zinc substituted cobalt ferrite'],
+'sizes':[{"length":7.2,"width":7.2,"depth":7.2}],
+'crystalsystem':['cubic'],
+'pdfno':['JCPDS -#22–1086'],
+'shape':['hexagonal']}
+
+
+{'method':['']
+'solvent':['distilled water'],
+'solvent_v':[40],
+'temperature':[100],
+'ph':[7],
+'precursors':[{"precursor":"nickel nitrate (Ni(NO3)3 9H2O)","precursor_conc":,"precursor_mass":3},{"precursor":"iron nitrate (Fe(NO3)3 9H2O)","precursor_conc":200,"precursor_mass":},{"precursor":"citric acid (C6H8O7. H2O)","precursor_conc":400,"precursor_mass":}],
+'additives':[{"additive":"","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['nickel substituted cobalt ferrite'],
+'sizes':[{"length":5.1,"width":5.1,"depth":5.1}],
+'crystalsystem':['cubic'],
+'pdfno':['JCPDS -#22–1086'],
+'shape':['spherical']}

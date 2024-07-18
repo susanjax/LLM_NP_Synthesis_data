@@ -1,0 +1,13 @@
+{'method':['green synthesis'],
+'solvent':['water'],
+'solvent_v':[],
+'temperature':[35],
+'ph':[],
+'precursors':[{"precursor":"AgNO3","precursor_conc":10,"precursor_mass":}],
+'additives':[{"additive":,"additive_conc":,"additive_mass":}],
+'seeds':[],
+'composition':['Ag'],
+'sizes':[{"length":4.7,"width":4.7,"depth":4.7}],
+'crystalsystem': ['cubic'],
+'pdfno':['JCPDS 98–018-0878'],
+'shape':['spherical']}

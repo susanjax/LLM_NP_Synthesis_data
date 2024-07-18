@@ -1,0 +1,13 @@
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[80],
+'ph':[9],
+'precursors':[{"precursor":"CuSO4.5H2O","precursor_conc":,"precursor_mass":20}],
+'additives':[{"additive":"Averrhoa carambola leaves extract","additive_conc":,"additive_mass":},{"additive":"NaOH","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['CuO NPs'],
+'sizes':[{"length":98 ,"width":98 ,"depth":98 }],
+'crystalsystem':['monoclinic'],
+'pdfno':['ICDD 01-080-1268'],
+'shape':['spherical']}

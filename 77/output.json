@@ -1,0 +1,13 @@
+{'method':['thermal decomposition']
+'solvent':['water'],
+'solvent_v':[200],
+'temperature':[110],
+'ph':[],
+'precursors':[{"precursor":"Fe (acac)3","precursor_conc":,"precursor_mass":0.020}],
+'additives':[{"additive":"pectin","additive_conc":,"additive_mass":0.2},{"additive":"NaBH4","additive_conc":,"additive_mass":0.02}],
+'seeds':[],
+'composition':['(γ-Fe2O3 NPs'],
+'sizes':[{"length":12.4,"width":12.4,"depth":12.4}],
+'crystalsystem':[''],
+'pdfno':['JCPDS: 00-39-1346'],
+'shape':['spherical']}

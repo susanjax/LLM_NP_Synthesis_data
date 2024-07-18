@@ -1,0 +1,13 @@
+{'method':['']
+'solvent':['De-ionized water'],
+'solvent_v':[70],
+'temperature':[70],
+'ph':[],
+'precursors':[{"precursor":"zinc acetate dihydrate","precursor_conc":200,"precursor_mass":}],
+'additives':[{"additive":"extracellular fungal fraction","additive_conc":,"additive_mass":}],
+'seeds':[],
+'composition':['ZnO NPs'],
+'sizes':[{"length":58,"width":58,"depth":58}],
+'crystalsystem':['hexagonal'],
+'pdfno':['JCPDS 01-084-6785'],
+'shape':['cauliflower']}

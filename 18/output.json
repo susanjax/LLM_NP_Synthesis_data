@@ -1,0 +1,13 @@
+{'method':[],
+'solvent':['nitric acid'],
+'solvent_v':[100],
+'temperature':[90],
+'ph':[],
+'precursors':[{"precursor":"Ag","precursor_conc":,"precursor_mass":100}],
+'additives':[{"additive":"NaCl","additive_conc":,"additive_mass":}],
+'seeds':[],
+'composition':['nano-Ag'],
+'sizes':[{"length":3,"width":3,"depth":3}],
+'crystalsystem': [],
+'pdfno':[],
+'shape':['spherical']}

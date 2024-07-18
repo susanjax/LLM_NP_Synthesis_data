@@ -1,0 +1,13 @@
+{'method':['chemical reduction'],
+'solvent':['water'],
+'solvent_v':[250],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"HAuCl4","precursor_conc":0.1,"precursor_mass":2.425}],
+'additives':[{"additive":"sodium citrate","additive_conc":,"additive_mass":0.075}],
+'seeds':[],
+'composition':['Au'],
+'sizes':[{"length":16,"width":16,"depth":16}],
+'crystalsystem': [],
+'pdfno':[],
+'shape':[]}

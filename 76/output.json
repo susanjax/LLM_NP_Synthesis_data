@@ -1,0 +1,13 @@
+{'method':['']
+'solvent':['deionized water '],
+'solvent_v':[320],
+'temperature':[80],
+'ph':[7],
+'precursors':[{"precursor":"FeCl3.6H2O","precursor_conc":,"precursor_mass":4.75},{"precursor":"FeSO4.7H2O","precursor_conc":,"precursor_mass":3.89}],
+'additives':[{"additive":"Malva sylvestris","additive_conc":,"additive_mass":0.5},{"additive":"NH3","additive_conc":,"additive_mass":0.5}],
+'seeds':[],
+'composition':['Fe3O4/Malva sylvestris nanoparticles'],
+'sizes':[{"length":36,"width":36,"depth":36}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}

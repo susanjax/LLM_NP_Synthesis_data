@@ -1,0 +1,56 @@
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Zinc nitrate","precursor_conc":,"precursor_mass":5}],
+'additives':[{"additive":"Beta vulgaris extract ","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO-NPs'],
+'sizes':[{"length":14,"width":14,"depth":14}],
+'crystalsystem':['hexagonal'],
+'pdfno':['JCPDS 89–0510'],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Zinc nitrate","precursor_conc":,"precursor_mass":5}],
+'additives':[{"additive":"Cinnamomum tamala extract","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO-NPs'],
+'sizes':[{"length":19,"width":19,"depth":19}],
+'crystalsystem':['hexagonal'],
+'pdfno':['JCPDS 89–0510'],
+'shape':['']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Zinc nitrate","precursor_conc":,"precursor_mass":5}],
+'additives':[{"additive":"Cinnamomum verum extract","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO-NPs'],
+'sizes':[{"length":27,"width":27,"depth":27}],
+'crystalsystem':['hexagonal'],
+'pdfno':['JCPDS 89–0510'],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Zinc nitrate","precursor_conc":,"precursor_mass":5}],
+'additives':[{"additive":"Brassica oleracea var. italica extract","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO-NPs'],
+'sizes':[{"length":30 ,"width":30 ,"depth":30 }],
+'crystalsystem':['hexagonal'],
+'pdfno':['JCPDS 89–0510'],
+'shape':['']}
+

@@ -1,0 +1,57 @@
+{'method':['']
+'solvent':['ethanol'],
+'solvent_v':[80],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"TiO2 nanoparticles","precursor_conc":,"precursor_mass":2.5},{"precursor":"chitosan","precursor_conc":,"precursor_mass":0.3}],
+'additives':[{"additive":"diethanolamine","additive_conc":,"additive_mass":},{"additive":"AgNO3","additive_conc":,"additive_mass":},{"additive":"titania","additive_conc":,"additive_mass":0.1}, {"additive":"sodium borohydride","additive_conc":,"additive_mass":},{"additive":"paraffin","additive_conc":,"additive_mass":},{"additive":"glutaraldehyde","additive_conc":,"additive_mass":0.1}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['chitosan-TiO2 -AgNO3 (ChiTiO@Ag)'],
+'sizes':[{"length":234,"width":234,"depth":234}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':['ethanol'],
+'solvent_v':[80],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"TiO2 nanoparticles","precursor_conc":,"precursor_mass":2.5},{"precursor":"chitosan","precursor_conc":,"precursor_mass":0.3}],
+'additives':[{"additive":"diethanolamine","additive_conc":,"additive_mass":},{"additive":"FeCl3","additive_conc":,"additive_mass":},{"additive":"titania","additive_conc":,"additive_mass":0.1}, {"additive":"sodium borohydride","additive_conc":,"additive_mass":},{"additive":"paraffin","additive_conc":,"additive_mass":},{"additive":"glutaraldehyde","additive_conc":,"additive_mass":0.1}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['chitosan-TiO2 -FeCl3 (ChiTiO@Fe)'],
+'sizes':[{"length":246,"width":246,"depth":246}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['non-spherical']}
+
+{'method':['']
+'solvent':['ethanol'],
+'solvent_v':[80],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"TiO2 nanoparticles","precursor_conc":,"precursor_mass":2.5},{"precursor":"chitosan","precursor_conc":,"precursor_mass":0.3}],
+'additives':[{"additive":"diethanolamine","additive_conc":,"additive_mass":},{"additive":"CuSO4","additive_conc":,"additive_mass":},{"additive":"titania","additive_conc":,"additive_mass":0.1}, {"additive":"sodium borohydride","additive_conc":,"additive_mass":},{"additive":"paraffin","additive_conc":,"additive_mass":},{"additive":"glutaraldehyde","additive_conc":,"additive_mass":0.1}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['chitosan-TiO2-CuSO4 (ChiTiO@Cu)'],
+'sizes':[{"length":283,"width":283,"depth":283}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['non-spherical']}
+
+{'method':['']
+'solvent':['ethanol'],
+'solvent_v':[80],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"TiO2 nanoparticles","precursor_conc":,"precursor_mass":2.5},{"precursor":"chitosan","precursor_conc":,"precursor_mass":0.3}],
+'additives':[{"additive":"diethanolamine","additive_conc":,"additive_mass":},{"additive":"ZnSO4","additive_conc":,"additive_mass":},{"additive":"titania","additive_conc":,"additive_mass":0.1}, {"additive":"sodium borohydride","additive_conc":,"additive_mass":},{"additive":"paraffin","additive_conc":,"additive_mass":},{"additive":"glutaraldehyde","additive_conc":,"additive_mass":0.1}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['chitosan-TiO2 -ZnSO4 (ChiTiO@Zn)'],
+'sizes':[{"length":260,"width":260,"depth":260}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['non-spherical']}
+
+

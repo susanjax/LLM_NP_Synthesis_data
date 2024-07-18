@@ -1,0 +1,14 @@
+{'method':['sol-gel'],
+'solvent':['methanol'],
+'solvent_v':[50],
+'temperature':[60],
+'ph':[],
+'precursors':[{"precursor":"Zn(CH3COOH)2","precursor_conc":,"precursor_mass":0.09}],
+'additives':[{"additive":"KOH","additive_conc":,"additive_mass":0.12}],
+'seeds':[],
+'composition':['ZnO'],
+
+'sizes':[{"length":15,"width":15,"depth":15}],
+'crystalsystem': [],
+'pdfno':['JCPDS 05-0664'],
+'shape':['spherical']}

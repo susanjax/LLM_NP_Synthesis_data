@@ -1,0 +1,13 @@
+{'method':[],
+'solvent':[],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"RhCl3·3H2O","precursor_conc": 0.25},{"precursor":"borohydride","precursor_conc":2.5}],
+'additives':[{"additive":"citrate", "additive_conc":0.25}],
+'seeds':[],
+'composition':['Rh'],
+'sizes':[{"length":6.5,"width":6.5,"depth":6.5}],
+'crystal system':['cubic'],
+'pdfno':[],
+'shape':['spherical']}

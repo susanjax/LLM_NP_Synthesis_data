@@ -1,0 +1,14 @@
+{'method':['sol–gel method']
+'solvent':['Milli-Q water'],
+'solvent_v':[10],
+'temperature':[300],
+'ph':[],
+'precursors':[{"precursor":"Zn (CH3COO)2.2H2O","precursor_conc":,"precursor_mass":1.1}],
+'additives':[{"additive":"albumin ","additive_conc":,"additive_mass":2}],
+'seeds':[],
+'composition':['ZnO nanorods'],
+'sizes':[{"length":285 ,"width":84,"depth":84}],
+'crystalsystem':['hexagon '],
+'pdfno':['JCPDS no, 89–0510'],
+'shape':['rod']}
+
