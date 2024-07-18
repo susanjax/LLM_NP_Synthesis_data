@@ -1,4 +1,4 @@
-{'method':['']
+{'method':['green synthesis']
 'solvent':[''],
 'solvent_v':[],
 'temperature':[],
@@ -6,7 +6,7 @@
 'precursors':[{"precursor":"","precursor_conc":,"precursor_mass":}],
 'additives':[{"additive":"","additive_conc":,"additive_mass":}],
 'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
-'composition':[''],
+'composition':['NiNPs'],
 'sizes':[{"length":,"width":,"depth":}],
 'crystalsystem':[''],
 'pdfno':[''],

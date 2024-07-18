@@ -1,13 +1,27 @@
-{'method':['']
-'solvent':[''],
+{'method':['bio-synthesis']
+'solvent':['water'],
 'solvent_v':[],
 'temperature':[],
-'ph':[],
-'precursors':[{"precursor":"","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"","additive_conc":,"additive_mass":}],
+'ph':[8.5],
+'precursors':[{"precursor":"AgNO3","precursor_conc":,"precursor_mass":0.1698}],
+'additives':[{"additive":"G. glauca leaf extract","additive_conc":,"additive_mass":}],
 'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
-'composition':[''],
-'sizes':[{"length":,"width":,"depth":}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['']}
+'composition':['AgNPs'],
+'sizes':[{"length":27.3,"width":27.3,"depth":27.3}],
+'crystalsystem':['centred cubic'],
+'pdfno':['JCPDS 04-0783'],
+'shape':['spherical']}
+
+{'method':['bio-synthesis']
+'solvent':['water'],
+'solvent_v':[],
+'temperature':[],
+'ph':[8.5],
+'precursors':[{"precursor":"AgNO3","precursor_conc":,"precursor_mass":0.1698}],
+'additives':[{"additive":"G. glauca leaf extract","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['AgNPs'],
+'sizes':[{"length":27.3,"width":27.3,"depth":27.3}],
+'crystalsystem':['centred cubic'],
+'pdfno':['JCPDS 04-0783'],
+'shape':['oval']}
