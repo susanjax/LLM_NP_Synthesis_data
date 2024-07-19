@@ -1,13 +1,70 @@
+{'method':['hydrotrope dilution']
+'solvent':['chloroform'],
+'solvent_v':[10],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"glyceryl monooleate","precursor_conc":,"precursor_mass":0.10}],
+'additives':[{"additive":"Pluronic F-127","additive_conc":,"additive_mass":0.015}, {"additive":"propylene glycol","additive_conc":,"additive_mass":0.27}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Liquid crystalline nanoparticles (LCNPs)'],
+'sizes':[{"length":200,"width":200,"depth":200}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"chloroform ","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"dimethyldioctadecylammonium bromide (DDAB)","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Cationic-LCNPs'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"lipid matrix","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"1,2-dioleoyl-sn-glycero-3-phosphoethanolamine-N-(Cyanine 7) (Cy7-PE)","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Fluorescently-labelled particles'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"lipid matrix","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"1,2-dioleoyl-sn-glycero-3-phosphoethanolamine-N-(lissamine rhodamine B sulfonyl) (ammonium salt) (Liss-Rhod PE)","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Fluorescently-labelled particles'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['']}
+
 {'method':['']
 'solvent':[''],
 'solvent_v':[],
 'temperature':[],
 'ph':[],
 'precursors':[{"precursor":"","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"","additive_conc":,"additive_mass":}],
+'additives':[{"additive":"PBS doped with antibiotic","additive_conc":,"additive_mass":}],
 'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
-'composition':[''],
+'composition':['Vancomycin and tobramycin loaded LCNPs and cationic-LCNPs'],
 'sizes':[{"length":,"width":,"depth":}],
 'crystalsystem':[''],
 'pdfno':[''],
 'shape':['']}
+

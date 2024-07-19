@@ -4,10 +4,10 @@
 'temperature':[25],
 'ph':[],
 'precursors':[{"precursor":"AgNO3","precursor_conc":,"precursor_mass":0.1800}],
-'additives':[{"additive":"chitosan","additive_conc":,"additive_mass":0.600}, {"additive":"acetic acid","additive_conc":,"additive_mass":0.600}],
+'additives':[{"additive":"chitosan","additive_conc":,"additive_mass":0.600}, {"additive":"acetic acid","additive_conc":,"additive_mass":}],
 'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
 'composition':['Colloidal chi-AgNPs'],
-'sizes':[{"length":2,"width":2,"depth":2}],
+'sizes':[{"length":8.5,"width":8.5,"depth":8.5}],
 'crystalsystem':[''],
 'pdfno':[''],
 'shape':['spherical']}
@@ -27,11 +27,11 @@
 'shape':['']}
 
 {'method':['']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[],
+'solvent':['methanol'],
+'solvent_v':[20],
+'temperature':[40],
 'ph':[],
-'precursors':[{"precursor":"","precursor_conc":,"precursor_mass":}],
+'precursors':[{"precursor":"chi-SiG","precursor_conc":,"precursor_mass":28.866},{"precursor":"AgNO3 ","precursor_conc":,"precursor_mass":0.18}],
 'additives':[{"additive":"","additive_conc":,"additive_mass":}],
 'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
 'composition':['AgNPs-[chi-SiG]'],

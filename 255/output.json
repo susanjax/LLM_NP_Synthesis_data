@@ -1,13 +1,14 @@
 {'method':['']
-'solvent':[''],
-'solvent_v':[],
+'solvent':['H2O'],
+'solvent_v':[15.8],
 'temperature':[],
 'ph':[],
-'precursors':[{"precursor":"","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"","additive_conc":,"additive_mass":}],
+'precursors':[{"precursor":"tetrachloroauric acid salt","precursor_conc":5.0,"precursor_mass":}],
+'additives':[{"additive":"sodium borohydride","additive_conc":1.0,"additive_mass":}, {"additive":"trisodium citrate","additive_conc":5.0,"additive_mass":}],
 'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
-'composition':[''],
+'composition':['gold nanoparticles (AuNPs)'],
 'sizes':[{"length":,"width":,"depth":}],
 'crystalsystem':[''],
 'pdfno':[''],
-'shape':['']}
+'shape':['rod']}
+

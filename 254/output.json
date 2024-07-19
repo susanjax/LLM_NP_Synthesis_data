@@ -1,13 +1,29 @@
 {'method':['']
 'solvent':[''],
 'solvent_v':[],
+'temperature':[100],
+'ph':[7],
+'precursors':[{"precursor":"elemental sulfur (S0)","precursor_conc":,"precursor_mass":1.6},
+  {"precursor":"sodium sulfide","precursor_conc":1000,"precursor_mass":}],
+'additives':[{"additive":"chitosan solution","additive_conc":,"additive_mass":},
+  {"additive":"hydrochloric acid","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['orthrombic sulfur nanoparticles (α-SNPs)'],
+'sizes':[{"length":87,"width":22,"depth":}],
+'crystalsystem':['orthorhombic'],
+'pdfno':[''],
+'shape':['Rod']}
+
+{'method':['acidification']
+'solvent':['H2O'],
+'solvent_v':[900],
 'temperature':[],
 'ph':[],
-'precursors':[{"precursor":"","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"","additive_conc":,"additive_mass":}],
+'precursors':[{"precursor":"sodium thiosulfate pentahydrate","precursor_conc":,"precursor_mass":2.482}],
+'additives':[{"additive":"HCl","additive_conc":200,"additive_mass":}],
 'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
-'composition':[''],
-'sizes':[{"length":,"width":,"depth":}],
-'crystalsystem':[''],
+'composition':['SNPs'],
+'sizes':[{"length":17 ,"width":17 ,"depth":17}],
+'crystalsystem':['orthorhombic'],
 'pdfno':[''],
-'shape':['']}
+'shape':['spherical']}
