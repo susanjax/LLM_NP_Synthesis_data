@@ -1,12 +1,41 @@
 {'method':['']
-'solvent':[''],
+'solvent':['distilled water'],
 'solvent_v':[],
 'temperature':[],
 'ph':[],
-'precursors':[{"precursor":"","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"","additive_conc":,"additive_mass":}],
+'precursors':[{"precursor":"AgNO3","precursor_conc":0.01,"precursor_mass":}],
+'additives':[{"additive":"plant (Capsicum annuum) extract","additive_conc":,"additive_mass":}],
 'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
-'composition':[''],
+'composition':['Ag NPs'],
+'sizes':[{"length":20.93,"width":20.93,"depth":20.93}],
+'crystalsystem':['face-centered cubic'],
+'pdfno':[''],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':['distilled water'],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Na2SeO3","precursor_conc":,"precursor_mass":0.8}],
+'additives':[{"additive":"albumin","additive_conc":,"additive_mass":0.8}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Se NPs'],
+'sizes':[{"length":17.77,"width":17.77,"depth":17.77}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+
+{'method':['']
+'solvent':['distilled water'],
+'solvent_v':[],
+'temperature':[45],
+'ph':[],
+'precursors':[{"precursor":"","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"PVA","additive_conc":,"additive_mass":0.35}, {"additive":"SA","additive_conc":,"additive_mass":0.15}],
+'seeds':[{"seed":'Ag NPs',"seed_conc":,"seed_mass":}, {"seed":'Se NPs',"seed_conc":,"seed_mass":}],
+'composition':['PVA/SA/Ag–Se'],
 'sizes':[{"length":,"width":,"depth":}],
 'crystalsystem':[''],
 'pdfno':[''],

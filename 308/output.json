@@ -1,13 +1,13 @@
-{'method':['']
-'solvent':[''],
+{'method':['green synthesis']
+'solvent':['double distilled water'],
 'solvent_v':[],
-'temperature':[],
+'temperature':[75],
 'ph':[],
-'precursors':[{"precursor":"","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"","additive_conc":,"additive_mass":}],
+'precursors':[{"precursor":"AgNO3","precursor_conc":1,"precursor_mass":0.017}],
+'additives':[{"additive":"S. jambolanum leaf extract","additive_conc":,"additive_mass":}],
 'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
-'composition':[''],
-'sizes':[{"length":,"width":,"depth":}],
+'composition':['S. jambolanum AgNps'],
+'sizes':[{"length":22.35,"width":22.35,"depth":22.35}],
 'crystalsystem':[''],
 'pdfno':[''],
-'shape':['']}
+'shape':['spherical']}
