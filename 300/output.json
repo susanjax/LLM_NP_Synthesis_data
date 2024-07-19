@@ -8,6 +8,6 @@
 'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
 'composition':['Ag/AgCl-NPs'],
 'sizes':[{"length": 19.92,"width":19.92,"depth":19.92}],
-'crystalsystem':['face-centered cubic structure'],
+'crystalsystem':['cubic'],
 'pdfno':['JCPDS 00-150-9146'],
 'shape':['spherical']}

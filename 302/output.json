@@ -1,5 +1,5 @@
 {'method':['green synthesis']
-'solvent':['double distilled water'],
+'solvent':['water'],
 'solvent_v':[],
 'temperature':[],
 'ph':[],
@@ -13,7 +13,7 @@
 'shape':['']}
 
 
-{'method':['green synthesis']
+{'method':['co-precipitation']
 'solvent':['double distilled water'],
 'solvent_v':[],
 'temperature':[150],
