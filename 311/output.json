@@ -1,9 +1,9 @@
-{'method':['green synthesiis']
+{'method':['']
 'solvent':[''],
-'solvent_v':[45],
+'solvent_v':[],
 'temperature':[],
 'ph':[],
-'precursors':[{"precursor":"AgNO3","precursor_conc":0.01,"precursor_mass":}],
+'precursors':[{"precursor":"","precursor_conc":,"precursor_mass":}],
 'additives':[{"additive":"","additive_conc":,"additive_mass":}],
 'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
 'composition':[''],
