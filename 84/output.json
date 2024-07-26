@@ -1,41 +1,13 @@
-{'method':['modified Frens method ']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[98.0],
+{'method':[],
+'solvent':['water'],
+'solvent_v':[20],
+'temperature':[80],
 'ph':[],
-'precursors':[{"precursor":"HAuCl4","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"tri‑sodium citrate","additive_conc":,"additive_mass":},{"additive":"Tris","additive_conc":,"additive_mass":}],
-'seeds':['AgNO3'],
-'composition':['Au NPs'],
-'sizes':[{"length":38,"width":38,"depth":38}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['spherical']}
-
-{'method':['modified Frens method ']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[98.0],
-'ph':[],
-'precursors':[{"precursor":"HAuCl4","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"tri‑sodium citrate","additive_conc":,"additive_mass":},{"additive":"Tris","additive_conc":,"additive_mass":}],
-'seeds':['AgNO3'],
-'composition':['Au NPs'],
-'sizes':[{"length":46,"width":46,"depth":46}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['spherical']}
-
-{'method':['modified Frens method ']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[98.0],
-'ph':[],
-'precursors':[{"precursor":"HAuCl4","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"tri‑sodium citrate","additive_conc":,"additive_mass":},{"additive":"Tris","additive_conc":,"additive_mass":}],
-'seeds':['AgNO3'],
-'composition':['Au NPs'],
-'sizes':[{"length":60,"width":60,"depth":60}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['spherical']}
+'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
+'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
+'seeds':[],
+'composition':['Co1.5Mn1.5O4'],
+'sizes':[{"length":140,"width":140,"depth":140}],
+'crystal system':['cubic'],
+'pdfno':[],
+'shape':['blocky']}

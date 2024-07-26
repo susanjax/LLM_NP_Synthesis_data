@@ -1,59 +1,19 @@
-I.1) Synthesis of hydrophobic gold nanoparticles (Au NPs).
-Gold nanoparticles (Au NPs) were synthesized according to some modifications of the twophase Brust method as described in previous publications[1]. All glassware was cleaned with
-aqua regia, carefully rinsed with MilliQ water and dried before use. The reaction was carried
-out at room temperature under ambient conditions. Hydrogen tetrachloroaurate (III) (0.300 g,
-0.88 mmol 99.9%, Alfa Aesar #12325) was dissolved in 25 mL of Milli-Q water, obtaining
-the aqueous solution of gold precursor. Then, a solution of tetraoctylammonium bromide
-(TOAB, 2.170 g, 3.9 mmol, Sigma-Aldrich #29,413-6) in 80 mL of toluene (Fluka #89682)
-was prepared. Both solutions of hydrogen tetrachloroaurate and TOAB were mixed in a 250
-mL separation funnel, and shaken vigorously for about 5 min. The AuCl4
--
- ions were gradually
-transferred into the organic phase (tol), due to the formation of tetraoctylammonium-AuCl4
--
-ion pairs. In this process, the initial colourless toluene phase turned into a deep orange colour
-while the initial yellow coloured aqueous phase (aq) turned colourless.
-AuCl4
--
- (aq) + N(C8H17)4
-+
- (tol) → N(C8H17)4
-+ + AuCl4
--
- (tol)
-The aqueous solution was discarded and the toluene solution was transferred to a 250 mL
-round flask. A freshly prepared solution of sodium borohydride (0.334 g, 0.88 mmol, Sigma
-#452882) in 25 mL of Milli-Q water was added dropwise within one minute to the vigorously
-stirred solution of gold precursor in toluene. A few seconds after the addition, the color
-changed from deep orange to red-violet, indicating the nucleation of gold clusters mediated by
-reduction of the gold ions by sodium borohydride.
-n⋅AuCl4
--
- (tol) + 3n⋅e
-- → 4n⋅Cl- (aq) + Aun
-0
-The solution was kept stirring for one hour and then was transferred to a clean 250 mL
-separation funnel where the aqueous phase was discarded. Then, 25 mL of 0.01 M HCl were
-added and the mixture was vigorously shaken to remove the excess of sodium borohydride. In
-a second step, 25 mL of 0.01 M NaOH were added in order to remove the excess of acid.
-Finally, 25 mL of Milli-Q water were added and shaken to remove the ion excess. This step
-was repeated four times. The aqueous phase was discarded and the solution was transferred to
-a 250 mL round bottom flask. The solution was stirred overnight to get thermodynamically
-stable NPs with narrow size distribution, in a process called Ostwald ripening. After this, in
-order to enhance the NPs stability an additional ligand (surfactant) exchange step was carried
-out. For this purpose 10 mL (8.450 g, 41.7 mmol) of 1-dodecanethiol (Sigma #471364) was
-added and the mixture was then heated at 65 °C for 3 hours under stirring. Due to the high
-binding affinity of thiols to gold, dodecanethiol displaces the Br ions of the NP surface,
-yielding dodecanethiol-coated Au NPs. The solution was cooled down to room temperature
-and the larger agglomerates were removed by centrifugation at 2500 rpm for 5 min. The
-supernatant was collected and larger agglomerates in the bottom of the vial were discarded.
-Then, methanol was added to the collected supernatant, until the solution turned cloudy. The
-solution was then centrifuged at 2000 rpm for 5 min. After discarding the supernatant, the
-precipitate containing the Au NPs was redissolved in toluene upon vigorous shaking. Again
-cold methanol was added to the NP solution until it turned cloudy and the mixture was
-centrifuged for 5 min at 2000 rpm. The supernatant was discarded and the precipitate
-containing the purified Au NPs was redissolved in chloroform. The average diameter of the
-3
-inorganic core of the Au NPs was determined by transmission electron microscopy (TEM) to
-be dc = 4.6 ± 1.1 nm (Supporting Figure S1). 
-
+Preparation of Co1.5Mn1.5O4 nanozyme
+In the synthesis of Co1.5Mn1.5O4 nanozyme, Co(NO3)2⋅6H2O and Mn
+(NO3)2⋅4H2O with the molar ration 1:1 was dissolved in 20 mL of
+deionized water. Then, 5 mL nitric acid was added to the solution under
+magnetic stirring at room temperature. Afterwards, 10 mL ethylene
+glycol was added and the mixture was heated at 80 ◦C until a viscous gel
+is formed. The resultant gel was dried at 120 ◦C for 24 h. The solid was
+ground in an agate mortar and heated at 400 ◦C in a preheated oven in
+air for 3 h.
+Morphology and characterization of Co1.5Mn1.5O4
+Surface morphology and constitute characterization of the prepared
+nanozyme were investigated via SEM, TEM and EDS. Fig. 1a shows that
+the prepared Co1.5Mn1.5O4 is in the shape of blocky particle with
+average size about 140 nm, which is further proved by TEM image
+(Fig. S2). Meanwhile, EDS data verify existence of elements Co, Mn, O in
+Co1.5Mn1.5O4 (Fig. S1). XRD was used to confirm the corresponding
+crystal structure of Co1.5Mn1.5O4, as displayed in Fig. 1b. All the pronounced peaks could be indexed to (111), (220), (311), (400), (422),
+(440), (511) and (533) planes of face-centered-cubic (fcc) Co1.5Mn1.5O4
+[31].

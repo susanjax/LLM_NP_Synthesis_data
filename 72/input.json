@@ -1,9 +1,19 @@
-Nanoparticles synthesis and characterization
-Bismuth nanoparticles are made as follows: 0.1 mmol of Bi(NO3)3 and 0.5 mmol of PVP are dissolved in 10 ml of N,N-dimethylformamide (DMF). The mixture is degassed with argon for 15 min under stirring. 0.3 ml of 1 M NaBH4 in water is mixed with 10 ml of DMF and added in the mixture of Bi(NO3)3 and PVP under vigorous stirring and argon flow for 5 min. The nanoparticles are precipitated by adding acetone, followed by centrifugation, washing with acetone and drying in vacuum.
-
-Iron oxide nanoparticles are prepared by thermally decomposing iron oleate precursors. A solution containing an equimolar mixture of iron oleate (0.2 mol/kg) and a stabilizer, in a high-boiling solvent, is vacuum-dried at 120 °C and heated slowly to reflux for 30 min to allow nanoparticles to grow. The mixtures of octadecence and diphenylether are used as solvents to adjust reflux temperature in the range of 290–375 °C, and to control size of nanoparticles. Sodium oleate and oleic acid are used as stabilizers. After cooling, iron oxide nanoparticles are isolated by applying a standard solvent/nonsolvent procedure with hexane/ethanol pairs.
-
-CdSe nanoparticles are made as described in the Ref. [36]. Briefly, 1 mmol of TOPSe and 1.35 mmol of dimethylcadmium are dissolved in 5 ml of trioctylphospine (TOP), and rapidly injected in a vigorously stirred mixture of 10 g of trioctylphosphine oxide (TOPO) and 5 g of hexadecylamine (HDA) heated to 300 °C. Injection results in an immediate nucleation of nanoparticles, which have a broad adsorption maximum around 450 nm. Further growth occurs at 250–310 °C depending on the desired size. For the synthesis of CdSe/ZnS core–shell nanoparticles, 2.5 ml of crude solution of CdSe nanoparticles is mixed with 5 g of TOPO and 2.5 g of HDA, and heated to 220 °C. The amount of Zn:S stock solution necessary to obtain the desired shell thickness is calculated from the ratio between core and shell volume using bulk lattice parameters of CdSe and ZnS. This amount is then added dropwisely to the vigorously stirred solution of CdSe nanoparticles.
-
-Characterization and surface modification of synthesized nanoparticles
-TEM is used to characterize the morphology of synthesized nanoparticles. Figure 2a shows TEM image of bismuth nanoparticles, where spherical nanoparticles with diameter of 20 nm, and having rough and porous surfaces, can be seen. Silica coated bismuth nanoparticles have an average thickness of 10 nm and the bismuth core is 20 nm (Fig. 2b). XRF spectrum shows the characteristic Lα1 and Lβ1 peaks of bismuth at 10.82 and 13.02 keV, respectively (Fig. 2c). TEM images show that Fe3O4 nanoparticles (Fig. 2d) and CdSe/ZnS quantum dots (Fig. 2e) have average diameter of 20, and 10 nm, respectively. MAA conjugation chemistry has been adopted in this experiment to transfer CdSe/ZnS quantum dots from organic phase into water phase. The fluorescence intensity decreased about 36 % after the conjugation of MAA on the surface of CdSe/ZnS while the maximum emission wavelength peak remains unchanged (Fig. 2f). The intensity reduction has been addressed by other researches, which could be due to particle loss during washing, or quenching of emission in PBS (pH = 7.4).
+Preparation of Co1.5Mn1.5O4 nanozyme
+In the synthesis of Co1.5Mn1.5O4 nanozyme, Co(NO3)2⋅6H2O and Mn
+(NO3)2⋅4H2O with the molar ration 1:1 was dissolved in 20 mL of
+deionized water. Then, 5 mL nitric acid was added to the solution under
+magnetic stirring at room temperature. Afterwards, 10 mL ethylene
+glycol was added and the mixture was heated at 80 ◦C until a viscous gel
+is formed. The resultant gel was dried at 120 ◦C for 24 h. The solid was
+ground in an agate mortar and heated at 400 ◦C in a preheated oven in
+air for 3 h.
+Morphology and characterization of Co1.5Mn1.5O4
+Surface morphology and constitute characterization of the prepared
+nanozyme were investigated via SEM, TEM and EDS. Fig. 1a shows that
+the prepared Co1.5Mn1.5O4 is in the shape of blocky particle with
+average size about 140 nm, which is further proved by TEM image
+(Fig. S2). Meanwhile, EDS data verify existence of elements Co, Mn, O in
+Co1.5Mn1.5O4 (Fig. S1). XRD was used to confirm the corresponding
+crystal structure of Co1.5Mn1.5O4, as displayed in Fig. 1b. All the pronounced peaks could be indexed to (111), (220), (311), (400), (422),
+(440), (511) and (533) planes of face-centered-cubic (fcc) Co1.5Mn1.5O4
+[31].

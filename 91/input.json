@@ -1,6 +1,19 @@
-Synthesis and Characterization of PtNPs
-PtNPs were synthesized by reducing PtCl6 2- ions into PtNPs by mixing 10 mL of 1 mg/mL apigenin with 90 mL of 1 mM aqueous H2PtCl6.6H2O. The mixture was maintained at 100 °C (on a hotplate) in a sealed flask to avoid evaporation for 1 h, as temperature catalyzes the reduction process. For control experiments, identical amounts of platinum solution and apigenin were maintained separately under the same reaction conditions. The reduced platinum solution was sonicated for 10 min to separate platinum nanomaterials from the biomolecules. After sonication, the solution was filtrated with a 0.2-µm syringe filter. The reduced platinum metal was purified by repeated centrifugation at 5000× g for 30 min and the pellets were washed with distilled water to remove the impurities. Scheme 1 indicates the various steps involved in synthesis and purification of the PtNPs. Purified PtNPs were characterized using various analytical techniques such as UV-vis spectroscopy, X-ray diffraction (XRD), Fourier transform infrared spectroscopy (FTIR), dynamic light scattering (DLS), scanning electron microscopy (SEM), and transmission electron microcopy.
-Characterization of PtNPs Using Apigenin
-The purity and crystal structure of the synthesized PtNPs were assessed using XRD. As shown in Figure 1B, the broad reflections of the synthesized nanoparticles indicated the nanocrystalline nature of the powder. Broad diffraction peaks of the XRD pattern were observed at 2θ = 40.6, 48.4, and 68.1, corresponding to reflections (111), (200), and (220), respectively, which are consistent with the face centered cubic (fcc) structure of platinum and can be assigned to JCPDS Card 04-0802, demonstrating the presence of crystalline. Shah et al. [45] reported synthesis of PtNPs with an XRD pattern similar to that reported in this study, using a low-temperature economically feasible method. The sharpening of the peaks clearly indicated that the particles were in the ultra-small size range. The size of the platinum nanocrystals as estimated from the full width at half maximum of the (111) Pt peak using the Scherrer formula was 1–2 nm. The XRD pattern clearly illustrates that the PtNPs formed using this present synthesis method were crystalline in nature.
-Accurate determination of the size of synthesized nanoparticles is crucial for developing nanoscale technologies and biological studies, as size affects many of the physical and chemical properties of these materials. DLS has been widely used for determining particle size [47]. As shown in Figure 1D, the average size of the particles was 2 nm, which is in accordance with the data obtained from TEM images. The results obtained from DLS exhibited unimodal distribution of nanoparticles with maximum percentage intensity of ~2 nm.
-The surface morphology of PtNPs was determined using SEM. As shown in Figure 1E, SEM showed individual PtNPs as well as aggregates. The PtNPs aggregated into large irregular structures with no well-defined morphology and all the particles possessed almost identical morphology. Finally, the structure and size of the PtNPs were analyzed using TEM. The TEM images showed that PtNPs had a uniform spherical shape and regular size, and were well dispersed with a narrow size distribution from 1.0 to 2.0 nm. DLS showed that the particles were 2 nm in diameter (Figure 1F). TEM exhibits significantly smaller size of the particles and good correlation with DLS, as TEM involves imaging of dry nanoparticles, whereas DLS is a measure of the hydrodynamic diameter.
+Preparation of Co1.5Mn1.5O4 nanozyme
+In the synthesis of Co1.5Mn1.5O4 nanozyme, Co(NO3)2⋅6H2O and Mn
+(NO3)2⋅4H2O with the molar ration 1:1 was dissolved in 20 mL of
+deionized water. Then, 5 mL nitric acid was added to the solution under
+magnetic stirring at room temperature. Afterwards, 10 mL ethylene
+glycol was added and the mixture was heated at 80 ◦C until a viscous gel
+is formed. The resultant gel was dried at 120 ◦C for 24 h. The solid was
+ground in an agate mortar and heated at 400 ◦C in a preheated oven in
+air for 3 h.
+Morphology and characterization of Co1.5Mn1.5O4
+Surface morphology and constitute characterization of the prepared
+nanozyme were investigated via SEM, TEM and EDS. Fig. 1a shows that
+the prepared Co1.5Mn1.5O4 is in the shape of blocky particle with
+average size about 140 nm, which is further proved by TEM image
+(Fig. S2). Meanwhile, EDS data verify existence of elements Co, Mn, O in
+Co1.5Mn1.5O4 (Fig. S1). XRD was used to confirm the corresponding
+crystal structure of Co1.5Mn1.5O4, as displayed in Fig. 1b. All the pronounced peaks could be indexed to (111), (220), (311), (400), (422),
+(440), (511) and (533) planes of face-centered-cubic (fcc) Co1.5Mn1.5O4
+[31].

@@ -1,13 +1,13 @@
-{'method':['']
+{'method':[],
 'solvent':['water'],
-'solvent_v':[90],
-'temperature':[100],
+'solvent_v':[20],
+'temperature':[80],
 'ph':[],
-'precursors':[{"precursor":"H2PtCl6∙6H2O","precursor_conc":1,"precursor_mass":}],
-'additives':[{"additive":"lycopene","additive_conc":,"additive_mass":0.01}],
+'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
+'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
 'seeds':[],
-'composition':['PtNPs'],
-'sizes':[{"length":25,"width":25,"depth":25}],
-'crystalsystem':['cubic'],
-'pdfno':[''],
-'shape':['polyhedral']}
+'composition':['Co1.5Mn1.5O4'],
+'sizes':[{"length":140,"width":140,"depth":140}],
+'crystal system':['cubic'],
+'pdfno':[],
+'shape':['blocky']}

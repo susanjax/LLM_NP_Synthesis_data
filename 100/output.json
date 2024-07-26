@@ -1,71 +1,13 @@
-{'method':['']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[],
+{'method':[],
+'solvent':['water'],
+'solvent_v':[20],
+'temperature':[80],
 'ph':[],
-'precursors':[{"precursor":"HAuCl4","precursor_conc":1.3,"precursor_mass":}],
-'additives':[{"additive":"tannic acid","additive_conc":6,"additive_mass":}],
+'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
+'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
 'seeds':[],
-'composition':['Au nanospheres'],
-'sizes':[{"length":10,"width":10,"depth":10}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['nanospheres']}
-
-{'method':['']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[],
-'ph':[],
-'precursors':[{"precursor":"HAuCl4","precursor_conc":1,"precursor_mass":}],
-'additives':[{"additive":"CTAB","additive_conc":200,"additive_mass":},{"additive":"AgNO3","additive_conc":4,"additive_mass":},{"additive":"L-ascorbic acid","additive_conc":100,"additive_mass":},{"additive":"NaBH4","additive_conc":2.25,"additive_mass":}],
-'seeds':['NaBH4'],
-'composition':['Au nanoflowers'],
-'sizes':[{"length":370,"width":370,"depth":370}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['nanoflowers']}
-
-{'method':['']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[],
-'ph':[],
-'precursors':[{"precursor":"HAuCl4","precursor_conc":1,"precursor_mass":}],
-'additives':[{"additive":"CTAB","additive_conc":200,"additive_mass":},{"additive":"AgNO3","additive_conc":4,"additive_mass":},{"additive":"L-ascorbic acid","additive_conc":78.8,"additive_mass":}],
-'seeds':['NaBH4'],
-'composition':['Au nanorods'],
-'sizes':[{"length":38,"width":16,"depth":16}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['nanorods']}
-
-{'method':['']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[],
-'ph':[],
-'precursors':[{"precursor":"HAuCl4","precursor_conc":10,"precursor_mass":}],
-'additives':[{"additive":"CTAB","additive_conc":50,"additive_mass":},{"additive":"NaI","additive_conc":50,"additive_mass":},{"additive":"L-ascorbic acid","additive_conc":100,"additive_mass":}],
-'seeds':['NaBH4'],
-'composition':['Au nanoprism'],
-'sizes':[{"length":138,"width":138,"depth":138}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['nanoprism']}
-
-{'method':['']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[29],
-'ph':[],
-'precursors':[{"precursor":"HAuCl4","precursor_conc":10,"precursor_mass":}],
-'additives':[{"additive":"CTAB","additive_conc":100,"additive_mass":},{"additive":"AgNO3","additive_conc":10,"additive_mass":},{"additive":"L-ascorbic acid","additive_conc":100,"additive_mass":}],
-'seeds':['Au NPs'],
-'composition':['Au nanostars'],
-'sizes':[{"length":240,"width":240,"depth":240}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['nanostars']}
-
-
+'composition':['Co1.5Mn1.5O4'],
+'sizes':[{"length":140,"width":140,"depth":140}],
+'crystal system':['cubic'],
+'pdfno':[],
+'shape':['blocky']}

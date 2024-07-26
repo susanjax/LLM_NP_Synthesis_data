@@ -1,11 +1,19 @@
-Synthesis and characterization
-Preparation of silver nanoparticle
-Silver nanoparticles (Ag-NPs) were synthesized by a wet chemical reduction approach by using tri-sodium citrate as the reducing and capping agent. In brief, 50 ml of 0.025 mM silver nitrate (AgNO3) solution was heated on a hot plate with rapid stirring at 1,400 rpm. Then, 5 ml of tri-sodium citrate (0.02%) was added after the silver nitrate solution reached its boiling point. The reaction was completed after 30 min when the solution color changed to yellow (Algebaly et al., 2020).
-
-Preparation of magnetite nanoparticle
-According to the Khalafalla and Reimers method, MNPs were synthesized by the addition of ferrous chloride (FeCl2.4H2O) to ferric chloride (FeCl3.6H2O) with a molar ratio of (2:3) in 120 ml of milli-Q water (18 ΩM). Finally, 250 ml of NH4OH (35 percent V/V) was added and stirred at 1,400 rpm for 30 min. The black precipitate was washed three times with 7% of NH4OH, and then the precipitate was collected and dried at room temperature (Khalafalla and Reimers, 1980).
-
-Synthesis of silver/magnetite core-shell nanoparticle
-Ag@Fe3O4 -NPs was synthesized by adding colloidal Ag-NPs, which work as a seed for Ag@Fe3O4 -NPs growth, followed by the addition of magnetite nanoparticles. In brief, 50 ml of silver nanoparticles was added to the magnetite suspension for a half-hour of vigorous stirring at 1,400 rpm. Then, slowly add NH4OH (35% V/V) until the color changes to black, then wash many times with milli-Q water (18 ΩM) using an external magnet (Tang et al., 2006).
-
-The crystallinity of silver nanoparticles, magnetite nanoparticles, and silver/magnetite core shells was investigated by X-ray diffraction (XRD). Figure 1 (blue color) displays an X-ray diffraction pattern for silver nanoparticles with peaks at 2 = 35.634, 43.415, and 65.264°, which correspond to 111, 220, and 400, respectively. According to the Joint Committee on Powder Diffraction standards (JCPDS-4-0783 Diff. card), it was matched with the standard silver diffraction pattern. The Plain magnetite XRD pattern, as shown in Figure 2, has peaks at 30.344, 35.634, 43.415, 57.264, and 62.866°, which correspond to 220, 311, 222, 400, and 511, respectively, and is consistent with the standard magnetite diffraction pattern of Fe3O4 as defined by the Joint Committee on Powder Diffraction standards (JCPDS 19–0629 Diff. card.). As shown in Figure 1 with red color, silver/magnetite nanocomposite has a pattern of 35.634, 37.25, 43.415, 57.264, 62.866, 65.26, and 77.5°, which are assigned to 111, 220, 222, 311, 400, and 511. It refers to the fact that Ag only covers a thin layer of Fe3O4 and that some magnetite particles remain bare. The presence of a core shell structure magnetite core with a silver shell was confirmed by XRD data (Gong et al., 2007). Dynamic Light Scattering (DLS) data revealed that the diameters of silver nanoparticles, magnetite, and silver/magnetite shell core nanoparticles were 25, 30, and 25 nm, respectively. The zeta potentials were −15, −10.3, and −9 mv for silver nanoparticles, magnetite, and silver/magnetite shell core nanoparticles, respectively. The data indicated that a thin layer of silver nanoparticles may be covered around a magnetite core. TEM and AFM were applied to identify the morphology and forms of Ag, Fe3O4, and Ag@Fe3O4 -NPs. Figures 2A, 3A show that silver nanoparticles have spherical shapes with diameters in the range of 30–35 nm, whereas magnetite nanoparticles have a polygonal shape with diameters in the range of 25–30 nm (Figures 2B, 3B). Ag@Fe3O4 -NPs has a cubic core with a diameter of 3 nm surrounded by a silver shell with a diameter of 25 nm, which emphasizes the production of silver magnetite core shell nanoparticles with regular morphologies and without aggregation, as shown in Figures 2C, 3C.
+Preparation of Co1.5Mn1.5O4 nanozyme
+In the synthesis of Co1.5Mn1.5O4 nanozyme, Co(NO3)2⋅6H2O and Mn
+(NO3)2⋅4H2O with the molar ration 1:1 was dissolved in 20 mL of
+deionized water. Then, 5 mL nitric acid was added to the solution under
+magnetic stirring at room temperature. Afterwards, 10 mL ethylene
+glycol was added and the mixture was heated at 80 ◦C until a viscous gel
+is formed. The resultant gel was dried at 120 ◦C for 24 h. The solid was
+ground in an agate mortar and heated at 400 ◦C in a preheated oven in
+air for 3 h.
+Morphology and characterization of Co1.5Mn1.5O4
+Surface morphology and constitute characterization of the prepared
+nanozyme were investigated via SEM, TEM and EDS. Fig. 1a shows that
+the prepared Co1.5Mn1.5O4 is in the shape of blocky particle with
+average size about 140 nm, which is further proved by TEM image
+(Fig. S2). Meanwhile, EDS data verify existence of elements Co, Mn, O in
+Co1.5Mn1.5O4 (Fig. S1). XRD was used to confirm the corresponding
+crystal structure of Co1.5Mn1.5O4, as displayed in Fig. 1b. All the pronounced peaks could be indexed to (111), (220), (311), (400), (422),
+(440), (511) and (533) planes of face-centered-cubic (fcc) Co1.5Mn1.5O4
+[31].

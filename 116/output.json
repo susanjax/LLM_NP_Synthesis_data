@@ -1,42 +1,13 @@
-
-{'method':['Modified Hummer’s method']
-'solvent':['H2SO4 and H3PO4'],
-'solvent_v':[110],
-'temperature':[],
-'ph':[6.5],
-'precursors':[{"precursor":"graphite","precursor_conc":,"precursor_mass":2}],
-'additives':[{"additive":"KMnO4","additive_conc":,"additive_mass":2}],
-'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
-'composition':['Graphene oxide (GO)'],
-'sizes':[{"length":,"width":,"depth":}],
-'crystalsystem':[''],
-'pdfno':['01–082-2261'],
-'shape':['snowball-like structures']}
-
-{'method':['']
-'solvent':['Deionized water'],
-'solvent_v':[50],
-'temperature':[],
-'ph':[10],
-'precursors':[{"precursor":"SnCl2·2H2O","precursor_conc":,"precursor_mass":3.78},{"precursor":"NiSO4·6H2O","precursor_conc":,"precursor_mass":4.48},{"precursor":"CuSO4·5H2O","precursor_conc":,"precursor_mass":3.93}],
-'additives':[{"additive":"NaOH","additive_conc":2,"additive_mass":},{"additive":"methanol","additive_conc":,"additive_mass":}],
-'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
-'composition':['SnO2-NiO-CuO (SNC) '],
-'sizes':[{"length":14,"width":14,"depth":14}],
-'crystalsystem':['cubic'],
-'pdfno':['00–030-0496'],
-'shape':['']}
-
-{'method':['']
-'solvent':['Deionized water'],
-'solvent_v':[],
-'temperature':[],
+{'method':[],
+'solvent':['water'],
+'solvent_v':[20],
+'temperature':[80],
 'ph':[],
-'precursors':[{"precursor":"Graphene oxide (GO)","precursor_conc":,"precursor_mass":1},{"precursor":"SnO2-NiO-CuO (SNC)","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"","additive_conc":,"additive_mass":}],
-'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
-'composition':['rGO-SnO2-NiO-CuO (GO-SNC)'],
-'sizes':[{"length":57.45,"width":57.45,"depth":57.45}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['semi porous sheet']}
+'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
+'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
+'seeds':[],
+'composition':['Co1.5Mn1.5O4'],
+'sizes':[{"length":140,"width":140,"depth":140}],
+'crystal system':['cubic'],
+'pdfno':[],
+'shape':['blocky']}

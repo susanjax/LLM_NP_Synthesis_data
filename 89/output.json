@@ -1,111 +1,13 @@
-{'method':['modified Stöber method']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[25],
+{'method':[],
+'solvent':['water'],
+'solvent_v':[20],
+'temperature':[80],
 'ph':[],
-'precursors':[{"precursor":"Tetraethyl orthosilicate","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"Igepal CO-520","additive_conc":,"additive_mass":},{"additive":"cyclohexane","additive_conc":,"additive_mass":},{"additive":"ammonium hydroxide","additive_conc":,"additive_mass":}],
+'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
+'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
 'seeds':[],
-'composition':['SNPs'],
-'sizes':[{"length":199.89,"width":199.89,"depth":199.89}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['spherical']}
-
-{'method':['modified Stöber method']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[25],
-'ph':[],
-'precursors':[{"precursor":"Tetraethyl orthosilicate","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"Igepal CO-520","additive_conc":,"additive_mass":},{"additive":"cyclohexane","additive_conc":,"additive_mass":},{"additive":"ammonium hydroxide","additive_conc":,"additive_mass":}],
-'seeds':[],
-'composition':['SNPs'],
-'sizes':[{"length":149.87,"width":149.87,"depth":149.87}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['spherical']}
-
-{'method':['modified Stöber method']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[25],
-'ph':[],
-'precursors':[{"precursor":"Tetraethyl orthosilicate","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"Igepal CO-520","additive_conc":,"additive_mass":},{"additive":"cyclohexane","additive_conc":,"additive_mass":},{"additive":"ammonium hydroxide","additive_conc":,"additive_mass":}],
-'seeds':[],
-'composition':['SNPs'],
-'sizes':[{"length":100.33,"width":100.33,"depth":100.33}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['spherical']}
-
-{'method':['modified Stöber method']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[25],
-'ph':[],
-'precursors':[{"precursor":"Tetraethyl orthosilicate","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"Igepal CO-520","additive_conc":,"additive_mass":},{"additive":"cyclohexane","additive_conc":,"additive_mass":},{"additive":"ammonium hydroxide","additive_conc":,"additive_mass":}],
-'seeds':[],
-'composition':['SNPs'],
-'sizes':[{"length":81.05,"width":81.05,"depth":81.05}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['spherical']}
-
-{'method':['modified Stöber method']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[25],
-'ph':[],
-'precursors':[{"precursor":"Tetraethyl orthosilicate","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"Igepal CO-520","additive_conc":,"additive_mass":},{"additive":"cyclohexane","additive_conc":,"additive_mass":},{"additive":"ammonium hydroxide","additive_conc":,"additive_mass":}],
-'seeds':[],
-'composition':['SNPs'],
-'sizes':[{"length":59.72,"width":59.72,"depth":59.72}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['spherical']}
-
-{'method':['modified Stöber method']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[25],
-'ph':[],
-'precursors':[{"precursor":"Tetraethyl orthosilicate","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"Igepal CO-520","additive_conc":,"additive_mass":},{"additive":"cyclohexane","additive_conc":,"additive_mass":},{"additive":"ammonium hydroxide","additive_conc":,"additive_mass":}],
-'seeds':[],
-'composition':['SNPs'],
-'sizes':[{"length":40.26,"width":40.26,"depth":40.26}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['spherical']}
-
-{'method':['modified Stöber method']
-'solvent':[''],
-'solvent_v':[],
-'temperature':[25],
-'ph':[],
-'precursors':[{"precursor":"Tetraethyl orthosilicate","precursor_conc":,"precursor_mass":}],
-'additives':[{"additive":"Igepal CO-520","additive_conc":,"additive_mass":},{"additive":"cyclohexane","additive_conc":,"additive_mass":},{"additive":"ammonium hydroxide","additive_conc":,"additive_mass":}],
-'seeds':[],
-'composition':['SNPs'],
-'sizes':[{"length":21.06,"width":21.06,"depth":21.06}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['spherical']}
-
-{'method':['modified Stöber method']
-'solvent':['dimethylformamide'],
-'solvent_v':[10],
-'temperature':[25],
-'ph':[],
-'precursors':[{"precursor":"3-aminopropyl)triethoxysilane","precursor_conc":3,"precursor_mass":},{"precursor":"6-carboxylfluorescein N-hydroxysuccinimide ester","precursor_conc":1,"precursor_mass":0.05}],
-'additives':[{"additive":"Igepal CO-520","additive_conc":,"additive_mass":},{"additive":"cyclohexane","additive_conc":,"additive_mass":},{"additive":"ammonium hydroxide","additive_conc":,"additive_mass":}],
-'seeds':[],
-'composition':['FAM-conjugated SNPs'],
-'sizes':[{"length":,"width":,"depth":}],
-'crystalsystem':[''],
-'pdfno':[''],
-'shape':['']}
+'composition':['Co1.5Mn1.5O4'],
+'sizes':[{"length":140,"width":140,"depth":140}],
+'crystal system':['cubic'],
+'pdfno':[],
+'shape':['blocky']}

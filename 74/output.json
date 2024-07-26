@@ -1,14 +1,13 @@
-{'method':['sol–gel method']
-'solvent':['Milli-Q water'],
-'solvent_v':[10],
-'temperature':[300],
+{'method':[],
+'solvent':['water'],
+'solvent_v':[20],
+'temperature':[80],
 'ph':[],
-'precursors':[{"precursor":"Zn (CH3COO)2.2H2O","precursor_conc":,"precursor_mass":1.1}],
-'additives':[{"additive":"albumin ","additive_conc":,"additive_mass":2}],
+'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
+'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
 'seeds':[],
-'composition':['ZnO nanorods'],
-'sizes':[{"length":285 ,"width":84,"depth":84}],
-'crystalsystem':['hexagon '],
-'pdfno':['JCPDS no, 89–0510'],
-'shape':['rod']}
-
+'composition':['Co1.5Mn1.5O4'],
+'sizes':[{"length":140,"width":140,"depth":140}],
+'crystal system':['cubic'],
+'pdfno':[],
+'shape':['blocky']}

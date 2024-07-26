@@ -1,6 +1,19 @@
-Nanomaterials synthesis
-The Zn1-xErxO (0, 1, 5, 10 at.%) nanoparticles were prepared by a solution-polymerization method [23], in this work citric acid was used to improve the chemical reaction. Two solutions were prepared: (S1) the first solution with 0.4 g of PVA (PVA a.m.w.: 70000–1000) and 3.2 g of sucrose (C12H22O11) were dissolved in 100 mL of deionized water with stirring at 70 °C to dissolve PVA. The second solution (S2) includes the Zn(NO3)26H20 (98%) and Er(NO3)35H2O (99%) for each composition, which were dissolved in 100 mL of deionized water to obtain Zn1-xErxO precursor solutions as follows Table 1:
-After obtaining transparent and homogenous solutions, the solutions S1 and S2 (respectively) were mixed, and the pH was adjusted to 1.0 by adding citric acid (99.5%). Then, the final solutions were stirred at 80 °C until complete water evaporation and a fluffy material were obtained. After that, the precursor powders obtained were dried at 250 °C for 4 h. Finally, the powders were calcined at 450 °C in a muffle (Thermolyne FB1410M, Thermo Scientific) for 3 h in an air atmosphere. All chemicals were purchased from Sigma-Aldrich.
-Nanoparticles characterization techniques
-The effect of the Er of structural parameters of the Zn1-xErxO (0, 1, 5, 10 at.%) nanoparticles was studied by X-ray diffraction (XRD). Fig. 2a shows the diffraction patterns of the as-prepared nanomaterials, where the crystalline structure of all the samples, exhibited by the presence of the main diffraction peaks (1 0 0), (0 0 2), (1 0 1), (1 0 2), (1 1 0), (1 0 3), (2 0 0), (1 1 2) and (2 0 1) which are associated to the hexagonal wurtzite structure of ZnO according to the JCPDS # 36–1451, and space group P63mc. As depicted, increasing the Er content from 1 at.% to 10 at.% decreases the intensity of the diffraction peaks associated with ZnO. However, no secondary phases of Er3+ ions were observed, which can be corroborated by comparing the diffractograms with the Er2O3 pattern (JCPDS # 08–0050) incorporated in the same Fig. 2a. For comparative purposes, all the XRD patterns were plotted at the same scale. The effect of Er in the preferred orientation was analyzed through calculations of the texture coefficient (TC) based on the Harrys texture analysis [31], for which the TC(hkl) values were obtained using the XRD data using the Eq. (1).
-The effect of the synthesis route on the morphology of the Zn1-xErxO (0, 1, 5, 10 at.%) nanoparticles was studied by FE-SEM (Fig. 3). According to the experimental procedure, when evaporation takes place, a polyesterification occurred, then a combustion process happened, and gasses are expulsed. The reaction can be understood as follow: C12H22 + 12O2 → 12CO2 + 11H2O. Fig. 2(a-d) shows, first, low magnification images of the nanoparticles. According to these images, extensively porosity can be observed, and no significant change in surface morphology was found. From high magnification images, it is possible to observe agglomerated nanoparticles. These images were used to determine grain size distributions histogram, which are shown in Fig. 3 , where a normal curve fits each histogram. The average grain size varies from 18 nm to 32 nm.
+Preparation of Co1.5Mn1.5O4 nanozyme
+In the synthesis of Co1.5Mn1.5O4 nanozyme, Co(NO3)2⋅6H2O and Mn
+(NO3)2⋅4H2O with the molar ration 1:1 was dissolved in 20 mL of
+deionized water. Then, 5 mL nitric acid was added to the solution under
+magnetic stirring at room temperature. Afterwards, 10 mL ethylene
+glycol was added and the mixture was heated at 80 ◦C until a viscous gel
+is formed. The resultant gel was dried at 120 ◦C for 24 h. The solid was
+ground in an agate mortar and heated at 400 ◦C in a preheated oven in
+air for 3 h.
+Morphology and characterization of Co1.5Mn1.5O4
+Surface morphology and constitute characterization of the prepared
+nanozyme were investigated via SEM, TEM and EDS. Fig. 1a shows that
+the prepared Co1.5Mn1.5O4 is in the shape of blocky particle with
+average size about 140 nm, which is further proved by TEM image
+(Fig. S2). Meanwhile, EDS data verify existence of elements Co, Mn, O in
+Co1.5Mn1.5O4 (Fig. S1). XRD was used to confirm the corresponding
+crystal structure of Co1.5Mn1.5O4, as displayed in Fig. 1b. All the pronounced peaks could be indexed to (111), (220), (311), (400), (422),
+(440), (511) and (533) planes of face-centered-cubic (fcc) Co1.5Mn1.5O4
+[31].

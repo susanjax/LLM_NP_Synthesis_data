@@ -1,9 +1,19 @@
-Synthesis of Gold Nanoparticles
-Gold nanoparticles were synthesized by employing sodium borohydride (NaBH4) as a reducing agent instead of old Turkevich or citrate method [20,21,22]. Two samples of gold nanoparticles (G1, G2) were fabricated by reduction of (0.2 mM, 40 mL) HAuCl4·3H2O with (0.050 M and 0.075 M, 0.02 mL) NaBH4. The solution of HAuCl4·3H2O (0.2 mM, 40 mL) was poured in a beaker and chilled solution of NaBH4 was added in it. Immediately the yellow color of gold salt solution converted into brick red color. Samples G1 and G2 were used as prepared. The chemical equation for the reaction is:
-HAuCl4 + NaBH4 → Au + BH4 + HCl + NaCl3	(1)
-The concentration of Au NPs is 67.72 μg/mL, which is calculated from Equation (1).
-Characterization of Gold Nanoparticles
-Sample G1, a light pink solution, gives the SPR peak at the wavelength ~521 nm (Figure 1a). Sample G2, a bright red solution, gives the SPR peak at the wavelength ~524 nm (Figure 1b). The SPR peaks of the solutions of gold NPs with a diameter of ~15 nm exhibited the wavelength ~520 nm and gold NPs with a diameter of ~30 nm showed the absorbance peak at wavelength ~524 nm in the literature [23]. The shifting in SPR peak is congruent as the diameter of gold NPs increases. The SPR peak is damped for low concentrations of G2 NPs. The size range of both samples was confirmed by AFM analysis.
-Atomic force microscopy (AFM) was executed for gold samples G1 and G2 to observe the presence of particles, particle size, and their size distribution. AFM analysis was performed in tapping mode and two-dimensional (2-D) image of nanoparticles is taken with a scan area of 0.5 × 0.5 μm as shown in Figure 2. The size of fabricated gold NPs (G1) ranges from 6 to 34 nm as observed by the analysis of the histogram (Figure 2b). Maximum particle ranges are found in the size range of 15–22 nm. This is congruent to the result of G1 (Figure 1a) obtained by UV-visible spectroscopy. The sizes of the gold NPs of sample G2 have a range between 20 and 40 nm as observed by the histogram analysis of sample G1 (Figure 2c,d). Here, maximum particles are found in the size range of 25–35 nm, satisfying the result of UV-visible spectroscopy of G2 (Figure 1b).
-The crystal structure of gold NPs is demonstrated by XRD as shown in Figure 3. Samples are prepared by the drop-casting of gold sol on a glass surface. The diffraction peaks of gold NPs are observed at 38.15°, 45.6°, 64.6° and 77.8°, representing the index as (111), (200), (220) and (311), respectively, which verified the polycrystalline face-centered cubic structure, and thus matched the literature [24].
-
+Preparation of Co1.5Mn1.5O4 nanozyme
+In the synthesis of Co1.5Mn1.5O4 nanozyme, Co(NO3)2⋅6H2O and Mn
+(NO3)2⋅4H2O with the molar ration 1:1 was dissolved in 20 mL of
+deionized water. Then, 5 mL nitric acid was added to the solution under
+magnetic stirring at room temperature. Afterwards, 10 mL ethylene
+glycol was added and the mixture was heated at 80 ◦C until a viscous gel
+is formed. The resultant gel was dried at 120 ◦C for 24 h. The solid was
+ground in an agate mortar and heated at 400 ◦C in a preheated oven in
+air for 3 h.
+Morphology and characterization of Co1.5Mn1.5O4
+Surface morphology and constitute characterization of the prepared
+nanozyme were investigated via SEM, TEM and EDS. Fig. 1a shows that
+the prepared Co1.5Mn1.5O4 is in the shape of blocky particle with
+average size about 140 nm, which is further proved by TEM image
+(Fig. S2). Meanwhile, EDS data verify existence of elements Co, Mn, O in
+Co1.5Mn1.5O4 (Fig. S1). XRD was used to confirm the corresponding
+crystal structure of Co1.5Mn1.5O4, as displayed in Fig. 1b. All the pronounced peaks could be indexed to (111), (220), (311), (400), (422),
+(440), (511) and (533) planes of face-centered-cubic (fcc) Co1.5Mn1.5O4
+[31].
