@@ -1,19 +1,14 @@
-Preparation of Co1.5Mn1.5O4 nanozyme
-In the synthesis of Co1.5Mn1.5O4 nanozyme, Co(NO3)2⋅6H2O and Mn
-(NO3)2⋅4H2O with the molar ration 1:1 was dissolved in 20 mL of
-deionized water. Then, 5 mL nitric acid was added to the solution under
-magnetic stirring at room temperature. Afterwards, 10 mL ethylene
-glycol was added and the mixture was heated at 80 ◦C until a viscous gel
-is formed. The resultant gel was dried at 120 ◦C for 24 h. The solid was
-ground in an agate mortar and heated at 400 ◦C in a preheated oven in
-air for 3 h.
-Morphology and characterization of Co1.5Mn1.5O4
-Surface morphology and constitute characterization of the prepared
-nanozyme were investigated via SEM, TEM and EDS. Fig. 1a shows that
-the prepared Co1.5Mn1.5O4 is in the shape of blocky particle with
-average size about 140 nm, which is further proved by TEM image
-(Fig. S2). Meanwhile, EDS data verify existence of elements Co, Mn, O in
-Co1.5Mn1.5O4 (Fig. S1). XRD was used to confirm the corresponding
-crystal structure of Co1.5Mn1.5O4, as displayed in Fig. 1b. All the pronounced peaks could be indexed to (111), (220), (311), (400), (422),
-(440), (511) and (533) planes of face-centered-cubic (fcc) Co1.5Mn1.5O4
-[31].
+synthesis of Chitosan-TiO2-metal ion nanocomposite
+TiO2 nanoparticles tend to aggregate in the solvent due to active hydroxyl groups on the surface. The surface modification is the way to restrain the interaction of TiO2 nanoparticles. Here, TiO2 nanocomposites were prepared by following the previously reported protocol [28] (Fig. 1A). Briefly, TiO2 nanoparticles were pretreated by dispersing 2.5 g of nano TiO2 in 80 mL ethanol and then mixing the obtained white suspension with 9.0 μL diethanolamine. After 10 min of stirring, the mixture was transferred to an ultrasonic bath for 20 min at room temperature. The titania (white sediment) was collected by vacuum filtration and rinsed with ethanol.
+Characterization
+The obtained DLS values of the particle sizes and zeta potentials have been reported in Table S1. The zeta potential can express the effective electronic charge present over particles, surface-adsorbed ionic species, or surface acidity and basicity. TiO2 dispersion in water leads to the formation of negative charges on the surface and higher surface area that would render the higher coverage of water hydroxyl groups [33]. Here, metal ions (Ag+, Cu2+, Zn2+, and Fe3+) can be deposited over the TiO2 surface through cationic adsorption. The synthesis of TiO2@metal composites (for example TiO2@Ag composite) can be summarized as follows: (i) TiO2 + Ag+ → TiO2@(Ag+) at pH 7.0 and (ii) TiO2 (Ag+) + BH−4 → TiO2@Ag at pH 10 [34].
+SEM micrographs illustrate the morphology of ChiTiO@Ag, ChiTiO@Fe, ChiTiO@Cu, and ChiTiO@Zn composites and their chitosan-based films (Fig. 3, upper panel). The addition of TiO2-metal composites powders to the chitosan gel solution leads to the agglomeration of composite particles in the chitosan polymer [36]. This aggregation is caused by either a Brownian motion (random movement) mechanism leading to form collides or gravitation mechanisms that depend on nanocomposites' size and terminal velocity. Among the four different prepared composites, ChiTiO@Ag particles were found to be the most regular and spherical in the morphology, while the rest provided non-spherical particles with rough surfaces. It is probably due to the cross-linking reaction of chitosan with larger particles which can be broken easily under the stirring process of the preparation reaction.
+
+Table S1. DLS results of pure TiO2 nanoparticles and chitosan-TiO2-metal composites
+Sample	Size (nm)	Zeta potential (mV)
+Pure TiO2	80	-15.6 ± 1.65
+ChiTiO@Ag	234	+30.2 ± 6.1
+ChiTiO@Cu	246	+28.3 ± 2.4
+ChiTiO@Zn	283	+13.9 ± 7.5
+ChiTiO@Fe	260	+22.8 ± 6.6
+

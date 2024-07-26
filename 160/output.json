@@ -1,13 +1,14 @@
-{'method':[],
-'solvent':['water'],
-'solvent_v':[20],
-'temperature':[80],
-'ph':[],
-'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
-'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
-'seeds':[],
-'composition':['Co1.5Mn1.5O4'],
-'sizes':[{"length":140,"width":140,"depth":140}],
-'crystal system':['cubic'],
-'pdfno':[],
-'shape':['blocky']}
+{'method':['Biosynthesis']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[95],
+'ph':[10],
+'precursors':[{"precursor":"NiCl2","precursor_conc":4.0,"precursor_mass":}, {"precursor":"FeCl3","precursor_conc":4.0,"precursor_mass":}],
+'additives':[{"additive":"M. koenigii extract","additive_conc":,"additive_mass":},{"additive":"NaOH","additive_conc":1000,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['NiFe2O4 NPs'],
+'sizes':[{"length":4,"width":4,"depth":4}],
+'crystalsystem':['cubic'],
+'pdfno':['JCPDS 10-0325'],
+'shape':['spherical']}
+

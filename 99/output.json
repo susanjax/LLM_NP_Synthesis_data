@@ -1,13 +1,55 @@
-{'method':[],
-'solvent':['water'],
-'solvent_v':[20],
-'temperature':[80],
+{'method':['']
+'solvent':['ultrapure water'],
+'solvent_v':[],
+'temperature':[25],
 'ph':[],
-'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
-'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
+'precursors':[{"precursor":"AgNO3","precursor_conc":5.6,"precursor_mass":}],
+'additives':[{"additive":"sodium borohydride","additive_conc":56,"additive_mass":},{"additive":"cysteine","additive_conc":5.6,"additive_mass":}],
 'seeds':[],
-'composition':['Co1.5Mn1.5O4'],
-'sizes':[{"length":140,"width":140,"depth":140}],
-'crystal system':['cubic'],
-'pdfno':[],
-'shape':['blocky']}
+'composition':['AgNPs'],
+'sizes':[{"length":8,"width":8,"depth":8}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':['ultrapure water'],
+'solvent_v':[],
+'temperature':[25],
+'ph':[],
+'precursors':[{"precursor":"AgNO3","precursor_conc":5.6,"precursor_mass":}],
+'additives':[{"additive":"sodium borohydride","additive_conc":56,"additive_mass":},{"additive":"glutathione","additive_conc":5.6,"additive_mass":}],
+'seeds':[],
+'composition':['AgNPs'],
+'sizes':[{"length":6,"width":6,"depth":6}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':['ultrapure water'],
+'solvent_v':[],
+'temperature':[25],
+'ph':[],
+'precursors':[{"precursor":"HAuCl4","precursor_conc":3,"precursor_mass":}],
+'additives':[{"additive":"sodium borohydride","additive_conc":30,"additive_mass":},{"additive":"cysteine","additive_conc":3,"additive_mass":}],
+'seeds':[],
+'composition':['AuNPs'],
+'sizes':[{"length":25.76,"width":25.76,"depth":25.76}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':['ultrapure water'],
+'solvent_v':[],
+'temperature':[25],
+'ph':[],
+'precursors':[{"precursor":"HAuCl4","precursor_conc":3,"precursor_mass":}],
+'additives':[{"additive":"sodium borohydride","additive_conc":30,"additive_mass":},{"additive":"glutathione","additive_conc":3,"additive_mass":}],
+'seeds':[],
+'composition':['AuNPs'],
+'sizes':[{"length":43,"width":43,"depth":43}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}

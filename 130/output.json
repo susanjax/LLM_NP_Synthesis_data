@@ -1,13 +1,14 @@
-{'method':[],
-'solvent':['water'],
+{'method':['sol-gel technique']
+'solvent':['distilled water'],
 'solvent_v':[20],
-'temperature':[80],
+'temperature':[],
 'ph':[],
-'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
-'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
-'seeds':[],
-'composition':['Co1.5Mn1.5O4'],
-'sizes':[{"length":140,"width":140,"depth":140}],
-'crystal system':['cubic'],
-'pdfno':[],
-'shape':['blocky']}
+'precursors':[{"precursor":"zinc chloride","precursor_conc":,"precursor_mass":2}],
+'additives':[{"additive":"sodium hydroxide","additive_conc":,"additive_mass":10},{"additive":"ethanol","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO NPs'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':['hexagonal'],
+'pdfno':[''],
+'shape':['spherical']}
+

@@ -1,19 +1,7 @@
-Preparation of Co1.5Mn1.5O4 nanozyme
-In the synthesis of Co1.5Mn1.5O4 nanozyme, Co(NO3)2⋅6H2O and Mn
-(NO3)2⋅4H2O with the molar ration 1:1 was dissolved in 20 mL of
-deionized water. Then, 5 mL nitric acid was added to the solution under
-magnetic stirring at room temperature. Afterwards, 10 mL ethylene
-glycol was added and the mixture was heated at 80 ◦C until a viscous gel
-is formed. The resultant gel was dried at 120 ◦C for 24 h. The solid was
-ground in an agate mortar and heated at 400 ◦C in a preheated oven in
-air for 3 h.
-Morphology and characterization of Co1.5Mn1.5O4
-Surface morphology and constitute characterization of the prepared
-nanozyme were investigated via SEM, TEM and EDS. Fig. 1a shows that
-the prepared Co1.5Mn1.5O4 is in the shape of blocky particle with
-average size about 140 nm, which is further proved by TEM image
-(Fig. S2). Meanwhile, EDS data verify existence of elements Co, Mn, O in
-Co1.5Mn1.5O4 (Fig. S1). XRD was used to confirm the corresponding
-crystal structure of Co1.5Mn1.5O4, as displayed in Fig. 1b. All the pronounced peaks could be indexed to (111), (220), (311), (400), (422),
-(440), (511) and (533) planes of face-centered-cubic (fcc) Co1.5Mn1.5O4
-[31].
+Preparation and characterization of unfunctionalized Fe3O4@SiO2 IONPs
+The starting chemicals and solvents were purchased from Sigma (Sigma–Aldrich, St. Louis, MO, USA) or Fluka (Honeywell, Morris Plains, NJ, USA) and were used without further purification. A round-bottom, three-necked, 500 mL flask equipped with a stirrer and placed in an ultrasonic bath was charged with 80 mg Fe3O4 nanoparticles (114 ± 59 nm, DLS) in 20 mL of distilled water [22]. After dispergation for 30 min by the action of ultrasound (450 W), the reaction mixture was treated with a solution of 10 ml of 10% tetrabutylammonium hydroxide and 200 ml of 96% ethanol. Then the stirred (300 rpm) reaction mixture exposed to the constant action of ultrasound was treated with a solution of 140 mg (0.672 mM) tetraethyl orthosilicate in 10 mL of absolute ethanol, added dropwise during 10 min. After stirring for 24 h at 40 °C, the Fe3O4@SiO2 IONPs were separated using a magnet, then washed with distilled water (3 × 50 mL) and methanol (2 × 50 mL) and finally dried in a vacuum lab oven at 40 °C [23]. The yield was 120 mg of Fe3O4@SiO2 IONPs. The specific surface area, FT-IR-spectroscopy and powder X-ray diffraction analysis were identical as we described previously [24].
+
+Preparation and characterisation of amino-functionalized Fe3O4@SiO2 IONPs
+A mixture containing 100 mg of Fe3O4@SiO2, 50 μM of water, 50 mg of α-methoxypoly(ethylene glycol) carboxylic acid (Mw = 5000 g/mole), 10 mg of 4-toluenesulfonic acid and 8 μL of 3-aminopropylethoxysilane in 100 mL of toluene was placed in a round-bottom flask exposed to the action of ultrasound (450 W) for 30 min. The mixture was then refluxed for 62 h. The Fe3O4@SiO2-NH2 particles were separated using a magnet, washed with methanol (5 × 50 mL) and distilled water (3 × 50 mL), then dried under vacuum at 40 °C [24]. The yield was 100 mg of Fe3O4@SiO2-NH2 IONPs. The total nitrogen content was determined by microanalysis, and the reactive amino groups content was determined spectrophotometrically [25]. The specific surface area, FT-IR-spectroscopy and powder X-ray diffraction analysis were identical as we described previously [24].
+characterization of silica coated IONPs
+The hydrophilic nanoparticles of Fe3O4 (114 ± 59 nm, DLS) [22] were coated with a layer of amorphous SiO2, which provided the Fe3O4@SiO2 IONPs [23]. The reaction of these particles with 3-aminopropyltriethoxysilane resulted in Fe3O4@SiO2-NH2 IONPs with amino groups on the surface [23]. The average size of the Fe3O4@SiO2 IONPs (188 ± 36 nm) and the Fe3O4@SiO2-NH2 IONPs (199 ± 20 nm) [24] was determined by DLS in a phosphate buffer with a pH of 7.3. Further, hydrodynamic particle sizes, PDI and zeta potential were measured in complete cell culture medium in order to investigate size and surface chemistry in relevant experimental condition. The average hydrodynamic size of Fe3O4@SiO2 IONPs was 6451 ± 205 nm and PDI was 0.647 ± 0.119. The average hydrodynamic size of Fe3O4@SiO2-NH2 IONPs was 3063 ± 520 nm and PDI was 0.845 ± 0.186. The measurement of the zeta potential of these samples showed -6.52 and -9.77 for Fe3O4@SiO2 IONPs and Fe3O4@SiO2-NH2 IONPs, respectively. The specific surface area was found to be 67 m2/g and 58 m2/g for Fe3O4@SiO2 IONPs and Fe3O4@SiO2-NH2 IONPs, respectively [24].

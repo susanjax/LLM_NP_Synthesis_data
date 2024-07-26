@@ -1,19 +1,14 @@
-Preparation of Co1.5Mn1.5O4 nanozyme
-In the synthesis of Co1.5Mn1.5O4 nanozyme, Co(NO3)2⋅6H2O and Mn
-(NO3)2⋅4H2O with the molar ration 1:1 was dissolved in 20 mL of
-deionized water. Then, 5 mL nitric acid was added to the solution under
-magnetic stirring at room temperature. Afterwards, 10 mL ethylene
-glycol was added and the mixture was heated at 80 ◦C until a viscous gel
-is formed. The resultant gel was dried at 120 ◦C for 24 h. The solid was
-ground in an agate mortar and heated at 400 ◦C in a preheated oven in
-air for 3 h.
-Morphology and characterization of Co1.5Mn1.5O4
-Surface morphology and constitute characterization of the prepared
-nanozyme were investigated via SEM, TEM and EDS. Fig. 1a shows that
-the prepared Co1.5Mn1.5O4 is in the shape of blocky particle with
-average size about 140 nm, which is further proved by TEM image
-(Fig. S2). Meanwhile, EDS data verify existence of elements Co, Mn, O in
-Co1.5Mn1.5O4 (Fig. S1). XRD was used to confirm the corresponding
-crystal structure of Co1.5Mn1.5O4, as displayed in Fig. 1b. All the pronounced peaks could be indexed to (111), (220), (311), (400), (422),
-(440), (511) and (533) planes of face-centered-cubic (fcc) Co1.5Mn1.5O4
-[31].
+2.2. Synthesis of mesoporous silica nanoparticles (MSNs)
+MSNs were synthesised according to the method reported elsewhere [59]. A mixture of 3.37 × 10−2 mol of CTATos, 1.86 × 10−2 mol of TEAH3 and 44.40 mol of deionised water was stirred at 80 °C for 1 h, and 5.60 × 10−1 mol of TEOS was then added quickly to the surfactant solution. The final mixture had a molar composition: 1.0 SiO2:0.06 CTATos:0.026 TEAH3:80.0 H2O. The mixture was stirred at 80 °C for a further 2 h. The solids were filtered, washed and dried in an oven at 100 °C for 24 h. The obtained product was labelled ‘As-synthesised MSNs’. Surfactants in the synthesised MSNs were removed using a solvent extraction process with 150 mL of EtOH containing 3 mL of 35 wt% HCl at 60 °C for 12 h and dried at 80 °C for 12 h. This process was repeated twice. The resulting product was labelled as ‘Surfactant-extracted MSNs’.
+2.3. Synthesis of aminosilane-functionalised mesoporous silica nanoparticles (NH2-MSNs)
+First, to remove the water bonded with surface silanol groups, Surfactant-extracted MSNs were degassed at 150 °C over 12 h under vacuum. For the aminosilane-functionalised MSNs, 1.0 g of degassed MSNs was suspended in 100 ml of 0.1 M APTES solution in toluene and stirred at 80 °C for 12 h under N2. The solid sample was filtered and washed several times with toluene and the sample was then dried at 60 °C for 12 h in air. The obtained product was labelled as ‘NH2-MSNs’.
+2.4. Synthesis of carboxyl groups functionalised mesoporous silica nanoparticles (COOH-MSNs)
+A 1 g sample of NH2-MSNs was degassed at 80 °C over 6 h under vacuum. The degassed NH2-MSNs were suspended in 100 ml of 0.1 M PMDA solution in DMAc and stirred at room temperature for 12 h. The solid sample was filtered and washed several times with DMAc. Deionised water (30 ml) was added and stirred at room temperature for 2 h. After filtration, the solid sample was dried at 60 °C for 12 h in air. The obtained product was labelled ‘COOH-MSNs’.
+
+2.5. Synthesis of cisplatin loaded mesoporous silica nanoparticles (Pt/COOH-MSNs)
+A 1 g sample of COOH-MSNs was suspended in 100 ml of a 2 × 10−2 M CDDP solution in DMSO and stirred at 45 °C for 24 h in the dark. The solid sample was filtered and washed several times with DMSO and acetone and the sample was then dried at 45 °C for 24 h in air. The resulting product was labelled ‘Pt/COOH-MSNs’.
+
+Characterization of synthesized NPs
+Fig. 1 presents TEM images of (a) Surfactant-extracted MSNs, (b) NH2-MSNs, (c) COOH-MSNs, and (d) Pt/COOH-MSNs. All samples have a very uniform particle size (∼120 nm) and uniform pore size. After the modification of functional groups, the MSNs retained a uniform pore size and particle size without any loss of mesostructure.
+
+Fig. 2 shows N2 adsorption–desorption isotherm curves (A) and pore size distributions (B) of (a) Surfactant-extracted, (b) NH2-MSNs, (c) COOH-MSNs, and (d) Pt/COOH-MSNs. Table 1 lists the structural parameters, such as BET surface area, total pore volume and pore diameter for Surfactant-extracted MSNs, NH2-MSNs, COOH-MSNs, and Pt/COOH-MSNs. 

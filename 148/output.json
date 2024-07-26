@@ -1,13 +1,15 @@
-{'method':[],
-'solvent':['water'],
-'solvent_v':[20],
-'temperature':[80],
+{'method':['']
+'solvent':['dH2O'],
+'solvent_v':[],
+'temperature':[100],
 'ph':[],
-'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
-'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
-'seeds':[],
-'composition':['Co1.5Mn1.5O4'],
-'sizes':[{"length":140,"width":140,"depth":140}],
-'crystal system':['cubic'],
-'pdfno':[],
-'shape':['blocky']}
+'precursors':[{"precursor":"PdCl2","precursor_conc":,"precursor_mass":0.032},{"precursor":"CoCl2","precursor_conc":,"precursor_mass":0.032}],
+'additives':[{"additive":"Activated Carbon (AC)","additive_conc":,"additive_mass":},{"additive":"C. verum extract","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['PdCo NPs'],
+'sizes':[{"length":2.467 ,"width":2.467 ,"depth":2.467 }],
+'crystalsystem':['cubic'],
+'pdfno':[''],
+'shape':['']}
+
+

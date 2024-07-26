@@ -1,13 +1,84 @@
-{'method':[],
-'solvent':['water'],
-'solvent_v':[20],
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
 'temperature':[80],
 'ph':[],
-'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
-'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
+'precursors':[{"precursor":"chloroauric acid trihydrate","precursor_conc":0.5,"precursor_mass":}],
+'additives':[{"additive":"green tea extract","additive_conc":,"additive_mass":3},{"additive":"sodium hydroxide","additive_conc":1,"additive_mass":}],
 'seeds':[],
-'composition':['Co1.5Mn1.5O4'],
-'sizes':[{"length":140,"width":140,"depth":140}],
-'crystal system':['cubic'],
-'pdfno':[],
-'shape':['blocky']}
+'composition':['gold nanospheres'],
+'sizes':[{"length":28.4,"width":28.4,"depth":28.4}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['nanospheres']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"gold nanospheres solution","precursor_conc":0.25,"precursor_mass":},{"precursor":"Chloroauric acid trihydrate","precursor_conc":0.25,"precursor_mass":}],
+'additives':[{"additive":"silver nitrate","additive_conc":1,"additive_mass":},{"additive":"ascorbic acid","additive_conc":100,"additive_mass":}],
+'seeds':['gold nanospheres'],
+'composition':['gold nanostars'],
+'sizes':[{"length":97.8,"width":97.8,"depth":97.8}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['nanostars']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"chloroauric acid trihydrate","precursor_conc":10,"precursor_mass":}],
+'additives':[{"additive":"cetyltrimethylammonium bromide","additive_conc":100,"additive_mass":},{"additive":"ascorbic acid","additive_conc":100,"additive_mass":},{"additive":"Silver nitrate","additive_conc":10,"additive_mass":}],
+'seeds':[],
+'composition':['gold nanorods'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['nanorods']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Chitosan","precursor_conc":,"precursor_mass":},{"precursor":"gold nanospheres","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"acetic acid","additive_conc":,"additive_mass":1}],
+'seeds':[],
+'composition':['Chitosan capped gold nanospheres'],
+'sizes':[{"length":190.7,"width":190.7,"depth":190.7}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['nanospheres']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Chitosan","precursor_conc":,"precursor_mass":},{"precursor":"gold nanostars","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"acetic acid","additive_conc":,"additive_mass":1}],
+'seeds':[],
+'composition':['Chitosan capped gold nanostars'],
+'sizes':[{"length":123.9,"width":123.9,"depth":123.9}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['nanostars']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Chitosan","precursor_conc":,"precursor_mass":},{"precursor":"gold nanorods","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"acetic acid","additive_conc":,"additive_mass":1}],
+'seeds':[],
+'composition':['Chitosan capped gold nanorods'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['nanorods']}
+

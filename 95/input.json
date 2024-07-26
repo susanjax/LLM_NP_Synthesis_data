@@ -1,19 +1,13 @@
-Preparation of Co1.5Mn1.5O4 nanozyme
-In the synthesis of Co1.5Mn1.5O4 nanozyme, Co(NO3)2⋅6H2O and Mn
-(NO3)2⋅4H2O with the molar ration 1:1 was dissolved in 20 mL of
-deionized water. Then, 5 mL nitric acid was added to the solution under
-magnetic stirring at room temperature. Afterwards, 10 mL ethylene
-glycol was added and the mixture was heated at 80 ◦C until a viscous gel
-is formed. The resultant gel was dried at 120 ◦C for 24 h. The solid was
-ground in an agate mortar and heated at 400 ◦C in a preheated oven in
-air for 3 h.
-Morphology and characterization of Co1.5Mn1.5O4
-Surface morphology and constitute characterization of the prepared
-nanozyme were investigated via SEM, TEM and EDS. Fig. 1a shows that
-the prepared Co1.5Mn1.5O4 is in the shape of blocky particle with
-average size about 140 nm, which is further proved by TEM image
-(Fig. S2). Meanwhile, EDS data verify existence of elements Co, Mn, O in
-Co1.5Mn1.5O4 (Fig. S1). XRD was used to confirm the corresponding
-crystal structure of Co1.5Mn1.5O4, as displayed in Fig. 1b. All the pronounced peaks could be indexed to (111), (220), (311), (400), (422),
-(440), (511) and (533) planes of face-centered-cubic (fcc) Co1.5Mn1.5O4
-[31].
+Silver nanoparticle synthesis
+AgNPs were produced by a borohydride reduction of silver nitrate as detailed in Equation 1 below,
+urn:x-wiley:0260437X:media:jat3566:jat3566-math-0001
+(1)
+Briefly, a 1 mm solution of AgNO3 and 2 mm solution of NaBH4 were prepared in ultrapure grade distilled water. To prevent agglomeration of the AgNP during the reduction process, the reaction was carried out at low temperature; 30 ml of NaBH4 was added to an Erlenmeyer flask placed in an ice bath and stirred at 350 rpm for 30 minutes to equilibrate. At a drop per second rate, 6 ml of AgNO3 was added to the NaBH4 solution under constant stirring. After all the AgNO3 had been added, the stirring was stopped and the flask taken out of the ice bath. To prevent further agglomeration of the AgNP the solution was placed back on the stirrer and stirred until room temperature was achieved. The resulting golden yellow solution was stable at 4°C.
+Particle characterization
+ Liposome preparation and encapsulation of silver nanoparticle
+Liposomes were prepared with a combination of DPPC and cholesterol via modification of a dehydration–rehydration technique originally reported by Mugabe, Azghani, and Omri (2006). Initially, DPPC and cholesterol were dissolved in 5 ml chloroform and the solution was mixed until clear. It was then dried in a vacuum oven at 52°C overnight (above melting temperature of DPPC). The resultant lipid cake was rehydrated in distilled deionized water (ddH2O) at 60°C in a shaker. After the lipid was rehydrated, an AgNP solution was added to make a final lipid concentration of 1 mg ml–1 of DPPC and 0.23 mg ml–1 of cholesterol to give a 7:3 molar ratio (Briuglia, Rotella, McFarlane, & Lamprou, 2015). The solution was then placed in the shaker at 60°C for another 20 minutes after which it was vortexed and extruded through a 100 nm Nanosizer polycarbonate extruder (TTScientific, Knoxville, USA). The resulting colloidal mixture was stored at 4°C before use.
+
+A summary of the synthesized NPs characterization using DLS is shown in Table 1 for different dispersion environments. DLS analysis of AgNP showed a dramatic increase in mean particle size when dispersed in RPMI-1640 media when compared to dispersion in ddH2O from 21.24 to 79.15 nm respectively. 
+Where D is the size of AgNP crystal in nm, λ is the wavelength of the diffractometer, β is the full width at half maximum intensity and θ is the Bragg angle. Based on the equation, the size of AgNP crystal was estimated to be 18.7 nm, which was similar to that of the average size as determined by DLS measurement of 21.24 nm.
+
+SEM and STEM were used to evaluate the morphology of the NPs and to estimate the size distribution values of the NPs in dry state. The STEM analysis of AgNP showed all particles produced were spherical with an average size of 14.3 ± 1.9 nm, which is similar to that estimated by the XRD analysis (Figure S1A). SEM analysis of Lipo-AgNP showed spherical and uniformly extruded vesicles while the contrasting image of the STEM showed encapsulation of the AgNP in the liposome with an average size of 82.73 ± 29.23 nm (Figure 2A,B), which displays size values less than the DLS values, which considering the hydrodynamic radius of the NPs was expected (Table 1). To confirm the encapsulation, DLS values of both AgNP before and after encapsulation were overlaid to determine if any unencapsulated AgNPs were present in the test sample (Figure 2C). As expected, there was no overlap in the size values showing successful encapsulation of AgNP.

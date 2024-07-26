@@ -1,13 +1,43 @@
-{'method':[],
-'solvent':['water'],
-'solvent_v':[20],
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
 'temperature':[80],
 'ph':[],
-'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
-'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
-'seeds':[],
-'composition':['Co1.5Mn1.5O4'],
-'sizes':[{"length":140,"width":140,"depth":140}],
-'crystal system':['cubic'],
-'pdfno':[],
-'shape':['blocky']}
+'precursors':[{"precursor":"Ni (NO3)2.6H2O","precursor_conc":100,"precursor_mass":}],
+'additives':[{"additive":"Murraya koenigii  curry leaf extract (CLE)","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['NiO NPs'],
+'sizes':[{"length":34,"width":34,"depth":34}],
+'crystalsystem':['cubic'],
+'pdfno':['JCPDS No. 04–0835'],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[80],
+'ph':[],
+'precursors':[{"precursor":"Ni(NO3)2.6H2O","precursor_conc":98,"precursor_mass":},{"precursor":"Co(NO3)3","precursor_conc":1,"precursor_mass":}],
+'additives':[{"additive":"Murraya koenigii  curry leaf extract (CLE)","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Co-doped NiO NPs'],
+'sizes':[{"length":29,"width":29,"depth":29}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[80],
+'ph':[],
+'precursors':[{"precursor":"Ni(NO3)2.6H2O","precursor_conc":98,"precursor_mass":},{"precursor":"Co(NO3)3","precursor_conc":3,"precursor_mass":}],
+'additives':[{"additive":"Murraya koenigii  curry leaf extract (CLE)","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Co-doped NiO NPs'],
+'sizes':[{"length":27,"width":27,"depth":27}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+

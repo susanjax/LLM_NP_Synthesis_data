@@ -1,13 +1,41 @@
-{'method':[],
-'solvent':['water'],
-'solvent_v':[20],
-'temperature':[80],
+{'method':['single emulsion-solvent evaporation method']
+'solvent':['chloroform'],
+'solvent_v':[2.5],
+'temperature':[],
 'ph':[],
-'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
-'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
+'precursors':[{"precursor":"MnClTPP","precursor_conc":,"precursor_mass":0.01}],
+'additives':[{"additive":"Poly(d,l-lactide-co-glycolide)","additive_conc":,"additive_mass":},{"additive":"Polyvinyl alcohol","additive_conc":,"additive_mass":}],
 'seeds':[],
-'composition':['Co1.5Mn1.5O4'],
-'sizes':[{"length":140,"width":140,"depth":140}],
-'crystal system':['cubic'],
-'pdfno':[],
-'shape':['blocky']}
+'composition':['MnClTPP-NPs'],
+'sizes':[{"length":205.2,"width":205.2,"depth":205.2}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+{'method':['single emulsion-solvent evaporation method']
+'solvent':['methylene chloride'],
+'solvent_v':[2.5],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"NiTPP","precursor_conc":,"precursor_mass":0.01}],
+'additives':[{"additive":"Poly(d,l-lactide-co-glycolide)","additive_conc":,"additive_mass":},{"additive":"Polyvinyl alcohol","additive_conc":,"additive_mass":}],
+'seeds':[],
+'composition':['NiTPP-NPs'],
+'sizes':[{"length":322.9,"width":322.9,"depth":322.9}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+{'method':['nanoprecipitation method']
+'solvent':['acetone'],
+'solvent_v':[2.5],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"CoTPP","precursor_conc":,"precursor_mass":0.01}],
+'additives':[{"additive":"PLGA","additive_conc":,"additive_mass":},{"additive":"Polyvinyl alcohol","additive_conc":,"additive_mass":}],
+'seeds':[],
+'composition':['CoTPP NPs'],
+'sizes':[{"length":344.5,"width":344.5,"depth":344.5}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}

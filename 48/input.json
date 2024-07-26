@@ -1,19 +1,10 @@
-Preparation of Co1.5Mn1.5O4 nanozyme
-In the synthesis of Co1.5Mn1.5O4 nanozyme, Co(NO3)2⋅6H2O and Mn
-(NO3)2⋅4H2O with the molar ration 1:1 was dissolved in 20 mL of
-deionized water. Then, 5 mL nitric acid was added to the solution under
-magnetic stirring at room temperature. Afterwards, 10 mL ethylene
-glycol was added and the mixture was heated at 80 ◦C until a viscous gel
-is formed. The resultant gel was dried at 120 ◦C for 24 h. The solid was
-ground in an agate mortar and heated at 400 ◦C in a preheated oven in
-air for 3 h.
-Morphology and characterization of Co1.5Mn1.5O4
-Surface morphology and constitute characterization of the prepared
-nanozyme were investigated via SEM, TEM and EDS. Fig. 1a shows that
-the prepared Co1.5Mn1.5O4 is in the shape of blocky particle with
-average size about 140 nm, which is further proved by TEM image
-(Fig. S2). Meanwhile, EDS data verify existence of elements Co, Mn, O in
-Co1.5Mn1.5O4 (Fig. S1). XRD was used to confirm the corresponding
-crystal structure of Co1.5Mn1.5O4, as displayed in Fig. 1b. All the pronounced peaks could be indexed to (111), (220), (311), (400), (422),
-(440), (511) and (533) planes of face-centered-cubic (fcc) Co1.5Mn1.5O4
-[31].
+synthesis of iron oxide nanoparticles
+The iron oxide nanoparticles were prepared by a co-precipitation method using a mixture of two salts (FeCl2 and FeCl3)[57]. Briefly, 0.01 mol FeCl2.4H2O and 0.02 mol FeCl3.6H2O were dissolved in 100 mL of deionized and deoxygenated water. Then, 0.08 mol of NaOH in 100 mL was added dropwise for 3 hours under nitrogen using a Soxhlet funnel while stirring. The precipitate was washed with water/ethanol repeatedly and dried in a desiccator for 24 hours. The RAFT agent was anchored in the nanoparticles following a reported procedure[44]. In short, Iron oxide nanoparticles (0.5 g) was dispersed in dry THF and 3-aminopropyldimethylethoxysilane (0.32 mL, 1 mmol) was added. The mixture was refluxed in an oil bath for 6 h under nitrogen protection. After cooling to room temperature, the reaction was precipitated in 250 mL hexanes. The particles were precipitated three times and each time they were easily recovered by centrifugation. For the next part, 0.2 g, (0.4 mmol) of activated 4-cyano-4-(phenylcarbonylthioylthio)pentanoate (CPDB) was added dropwise to the dispersed solution of iron oxide nanoparticles in THF at room temperature. The solution was stirred overnight and precipitated in hexanes. The CPDB-anchored nanoparticles were recovered by centrifugation and dried in vacuum. The particles were then dispersed in THF and stored for later use.
+Synthesis of cobaltocenium-containing iron oxide nanoparticles
+CoAEMAPF6 (200 mg, 0.41 mmol), CPDB-coated iron oxide nanoparticles (245 mg, 1 mmol) and 0.4 mL dry dimethyformamide (DMF) were added to a 10 mL Schlenk tube. To ensure good dispersion of nanoparticles, the solution was sonicated for 5 minutes, and AIBN (0.2 mg, 1.23 μmol) was added. The resulting solution was degassed by purging nitrogen for 30 minutes and then placed in an oil bath of 90 °C until the desired conversion was met. The polymerization was quenched by opening to air and cooling with ice water. The reaction mixture was precipitated in cold dichloromethane three times and vacuum-dried. Ion-exchange of Cl− was performed according to a previous report using tetrabutylammonium chloride salt (TBACl) [53]. A typical procedure was as follows:1 mL PF6− paired FeNP (30 mg/mL in acetonitrile) was slowly dropped into 5 mL TBACl solution (in acetonitrile) under vigorous stirring. After stirring for 5 minutes, the precipitated Cl− paired FeNP was collected and washed by acetonitrile three times to remove PF6− anions and excess TBACl. The solid yellow FeNP-Cl was then vacuum-dried and collected.
+
+Synthesis of FeNP-Penicillin bioconjugates
+Cobaltocenium-containing iron oxide nanoparticles with Cl− was initially dispersed in deionized water and solution of penicillin-G sodium salt was added slowly with molar ratios (penicillin salt to cobaltocenium moieties) in the range of 1.15 to 1.0. The solution was stirred for 2 h and then dialyzed against 3L deionized water for 9 hours. The solution in a dialysis bag was collected and freeze-dried. The FeNP-Pen conjugates were obtained as a yellow powder.
+
+Characterization of nanoparticles
+The mean diameter of cobaltocenium-containing nanoparticles was ∼ 25 nm as measured by dynamic light scattering and was consistent with measurements obtained by TEM, as shown in Figure 1. After loading penicillin to the nanoparticle by electrostatic interaction, the diameter rose up to 33 nm as seen in DLS. The nanoparticle was also characterized by FTIR and EDX elemental analysis to confirm major chemical bonds and elements in the nanoparticles, respectively (Figures S1 and S2). Thermogravimetric analysis (TGA) was implemented to determine the accurate weight loss of nanoparticles after loss of attached organic compounds. The TGA of iron oxide nanoparticles with RAFT agent and cleaved polymer chains was compared with that of cobaltocenium-containing iron oxide nanoparticles alone (Figure S3). 

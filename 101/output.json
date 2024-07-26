@@ -1,13 +1,27 @@
-{'method':[],
-'solvent':['water'],
-'solvent_v':[20],
-'temperature':[80],
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
 'ph':[],
-'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
-'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
+'precursors':[{"precursor":"HAuCl4","precursor_conc":1,"precursor_mass":}],
+'additives':[{"additive":"PAMAM G4 ","additive_conc":0.07,"additive_mass":},{"additive":"formic acid","additive_conc":,"additive_mass":}]
 'seeds':[],
-'composition':['Co1.5Mn1.5O4'],
-'sizes':[{"length":140,"width":140,"depth":140}],
-'crystal system':['cubic'],
-'pdfno':[],
-'shape':['blocky']}
+'composition':['AuNps'],
+'sizes':[{"length":7.2,"width":7.2,"depth":7.2}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"HAuCl4","precursor_conc":0.5,"precursor_mass":}],
+'additives':[{"additive":"sodium citrate","additive_conc":,"additive_mass":}],
+'seeds':[],
+'composition':['AuNps-citrate'],
+'sizes':[{"length":7.3 ,"width":7.3 ,"depth":7.3 }],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['']}

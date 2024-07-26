@@ -1,13 +1,69 @@
-{'method':[],
-'solvent':['water'],
+{'method':['']
+'solvent':['distilled water and ethanol (1:1)'],
 'solvent_v':[20],
-'temperature':[80],
+'temperature':[],
 'ph':[],
-'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
-'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
-'seeds':[],
-'composition':['Co1.5Mn1.5O4'],
-'sizes':[{"length":140,"width":140,"depth":140}],
-'crystal system':['cubic'],
-'pdfno':[],
-'shape':['blocky']}
+'precursors':[{"precursor":"Zn(CH3COO)2·2H2O","precursor_conc":1000,"precursor_mass":1.317},{"precursor":"MnSO4·H2O","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"NaOH","additive_conc":,"additive_mass":0.59}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Transition metal doped ZnO'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':['hexagonal'],
+'pdfno':['JCPDS No. 36–1451'],
+'shape':['']}
+
+{'method':['']
+'solvent':['distilled water and ethanol (1:1)'],
+'solvent_v':[20],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Zn(CH3COO)2·2H2O","precursor_conc":1000,"precursor_mass":1.317},{"precursor":"FeSO4·7H2O","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"NaOH","additive_conc":,"additive_mass":0.59}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Transition metal doped ZnO'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':['hexagonal'],
+'pdfno':['JCPDS No. 36–1451'],
+'shape':['']}
+
+{'method':['']
+'solvent':['distilled water and ethanol (1:1)'],
+'solvent_v':[20],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Zn(CH3COO)2·2H2O","precursor_conc":1000,"precursor_mass":1.317},{"precursor":"Co(CH3COO)2·7H2O,","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"NaOH","additive_conc":,"additive_mass":0.59}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Transition metal doped ZnO'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':['hexagonal'],
+'pdfno':['JCPDS No. 36–1451'],
+'shape':['']}
+
+{'method':['']
+'solvent':['distilled water and ethanol (1:1)'],
+'solvent_v':[20],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Zn(CH3COO)2·2H2O","precursor_conc":1000,"precursor_mass":1.317},{"precursor":"Ni(NO3)2·6H2O","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"NaOH","additive_conc":,"additive_mass":0.59}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Transition metal doped ZnO'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':['hexagonal'],
+'pdfno':['JCPDS No. 36–1451'],
+'shape':['']}
+
+{'method':['']
+'solvent':['distilled water and ethanol (1:1)'],
+'solvent_v':[20],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Zn(CH3COO)2·2H2O","precursor_conc":1000,"precursor_mass":1.317},{"precursor":"CuSO4·5H2O","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"NaOH","additive_conc":,"additive_mass":0.59}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Transition metal doped ZnO'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':['hexagonal'],
+'pdfno':['JCPDS No. 36–1451'],
+'shape':['']}

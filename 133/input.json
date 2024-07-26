@@ -1,19 +1,5 @@
-Preparation of Co1.5Mn1.5O4 nanozyme
-In the synthesis of Co1.5Mn1.5O4 nanozyme, Co(NO3)2⋅6H2O and Mn
-(NO3)2⋅4H2O with the molar ration 1:1 was dissolved in 20 mL of
-deionized water. Then, 5 mL nitric acid was added to the solution under
-magnetic stirring at room temperature. Afterwards, 10 mL ethylene
-glycol was added and the mixture was heated at 80 ◦C until a viscous gel
-is formed. The resultant gel was dried at 120 ◦C for 24 h. The solid was
-ground in an agate mortar and heated at 400 ◦C in a preheated oven in
-air for 3 h.
-Morphology and characterization of Co1.5Mn1.5O4
-Surface morphology and constitute characterization of the prepared
-nanozyme were investigated via SEM, TEM and EDS. Fig. 1a shows that
-the prepared Co1.5Mn1.5O4 is in the shape of blocky particle with
-average size about 140 nm, which is further proved by TEM image
-(Fig. S2). Meanwhile, EDS data verify existence of elements Co, Mn, O in
-Co1.5Mn1.5O4 (Fig. S1). XRD was used to confirm the corresponding
-crystal structure of Co1.5Mn1.5O4, as displayed in Fig. 1b. All the pronounced peaks could be indexed to (111), (220), (311), (400), (422),
-(440), (511) and (533) planes of face-centered-cubic (fcc) Co1.5Mn1.5O4
-[31].
+ Preparation of gold nanoparticles
+For synthesis of citrate-coated AuNPs, the Turkevich method was employed [22]. Briefly, HAucl4.3H2O with a molecular weight of 393.832 g/mol was dissolved in WFI to obtain a concentration of 1 mM. Subsequently, it washeated to boiling temperature and a 1 % solution of sodium citrate (SC) was rapidly added while vigorously stirring. After 10 min, a colorimetric shift from pale yellow to red was indicative of AuNP formation. Lastly, the reaction mixture was cooled down to room temperature. Gold nanoparticles were loosely coated with the negatively charged citrate ions.
+characterization of AuNPs
+AuNPs, synthesized by reduction of 1 mM of tetrachloroauric acid trihydrate in an aqueous solution after exposure to SC, were confirmed by UV–vis spectroscopy, size distribution, zeta potential, and ICP-OES (Fig. 1). The UV–vis absorption spectrum of AuNPs recorded in the visible region (400–650 nm) showed an absorption peak at 520 nm, characteristic of AuNPs (Fig. 1(a)). An optical image of the prepared AuNPs is presented in Fig. 1(b). Generally, the AuNP solution shows a ruby red color in the aqueous solution because of the Surface Plasmon Resonance (SPR) of mNPs [33,34]. The size and zeta potential of the AuNPs were 49.38 nm and −31.9, respectively (Fig. 1(c and d). According to DLS, our nanoparticle samples exhibited a narrow size with PDI less than o.5 (0.443), indicating that most of the nanoparticles were of similar sizes [35]. Because of the use of SC solution as a reducing agent in AuNP synthesis, the negative zeta potential confirms the negative charge on the surface of the AuNPs. The surface of AuNPs is covered with the functional groups of the reducing agent in such a way that it anchors to the surface of AuNPs and the other ends remains free. These free functional groups can thus interact with the target molecules [36]. Moreover, SC simultaneously acts as a stabilizer [37].
+ In FE-SEM imaging, the synthesized AuNPs displayed a nearly spherical morphology monodispersed with a more or less uniform structure (Fig. 2(a)). Moreover, the elemental mapping of gold atoms shown in Fig. 2(b) confirms its presence in solution. The elemental composition of AuNP surface was also investigated by EDS analysis (Fig. 2(c)). The EDS profile indicated a strong gold signal together with weak oxygen and carbon peaks, which may have originated from SC bounded to the AuNP surfaces. These results suggest that the AuNPs were successfully synthesized.

@@ -1,19 +1,6 @@
-Preparation of Co1.5Mn1.5O4 nanozyme
-In the synthesis of Co1.5Mn1.5O4 nanozyme, Co(NO3)2⋅6H2O and Mn
-(NO3)2⋅4H2O with the molar ration 1:1 was dissolved in 20 mL of
-deionized water. Then, 5 mL nitric acid was added to the solution under
-magnetic stirring at room temperature. Afterwards, 10 mL ethylene
-glycol was added and the mixture was heated at 80 ◦C until a viscous gel
-is formed. The resultant gel was dried at 120 ◦C for 24 h. The solid was
-ground in an agate mortar and heated at 400 ◦C in a preheated oven in
-air for 3 h.
-Morphology and characterization of Co1.5Mn1.5O4
-Surface morphology and constitute characterization of the prepared
-nanozyme were investigated via SEM, TEM and EDS. Fig. 1a shows that
-the prepared Co1.5Mn1.5O4 is in the shape of blocky particle with
-average size about 140 nm, which is further proved by TEM image
-(Fig. S2). Meanwhile, EDS data verify existence of elements Co, Mn, O in
-Co1.5Mn1.5O4 (Fig. S1). XRD was used to confirm the corresponding
-crystal structure of Co1.5Mn1.5O4, as displayed in Fig. 1b. All the pronounced peaks could be indexed to (111), (220), (311), (400), (422),
-(440), (511) and (533) planes of face-centered-cubic (fcc) Co1.5Mn1.5O4
-[31].
+SPION preparation
+Nanoparticles were prepared by thermal decomposition of iron(III) acetylacetonate (Fe(acac)3) in the presence of oleic acid and working at reflux condition during 15 min, with using as solvent trioctylamine (boiling point 630 K). The size of the particles was tailored by the surfactant:precursor molar ratio ([Surf.]:[Prec.]) and the total synthesis time, aimed to obtain a 18 nm size nanoparticles. The as-prepared sample consisted of a black suspension in a non-polar solvent of ferrite nanoparticles coated with an oleic acid monolayer. To use these nanoparticles for biological applications they were coating with 11-Aminoundecanoic acid tetramethylammonium salt (11-AATS) as already described in the literature.25 Briefly, the oleic acid-coated nanoparticles and the 11-AATS were diluted in dichloromethane (0.1 wt %). The mixture was sonicated in an ultrasound bath for 1 h and after an incubation time of 24 h the nanoparticles became hydrophilic. Thus, PEG and DEXTRAN molecules could be attached in the nanoparticles.27, 28 Finally, a stable biocompatible aqueous suspension of PEG- or DEXTRAN coated SPIONs was obtained.
+characterization of SPIONs
+TEM and high-resolution TEM (HRTEM) images of SPIONs are presented in Figure 1(a,b), respectively. Nanoparticles presented spherical-like shape and a narrow Gaussian size distribution with mean diameter < d > = 18 nm and dispersion σ = 2 nm, as obtained from the fitting of the diameter histogram presented in the inset of Figure 1(a). HRTEM image evidenced the high crystallinity of the nanoparticles (atomic planes are clearly observed in the whole particle) and the fast Fourier transformation (FFT) of the image [see inset of Figure 1(b)] confirms the crystalline structure expected for the spinel structure of the ferrite (magnetite Fe3O4 and maghemite γ-Fe2O3). Figure 1(c) presents the XRD profile, where the peaks associated with the crystalline reflections of the planes of spinel structure are observed, corroborating the crystallinity observed in HRTEM images. According to the Scherrer's formula, which gives the crystallite size from the peak width, the mean grain size of our sample is about 15 nm.
+
+According to light scattering measurements, the mean hydrodynamic diameter obtained for the oleic acid-coated nanoparticles was <dhyd> = 20 ± 5 nm, close to the mean diameter of the particles obtained from TEM images. For DEXTRAN- and PEG-coated nanoparticles dispersed in water <dhyd> = 170 ± 70 nm and <dhyd> = 120 ± 40 nm values were obtained, respectively. These values of <dhyd> are close to those observed in the literature for PEG- and DEXTRAN-coated superparamagnetic iron oxide nanoparticles,19 despite the fact that hydrodynamic diameters of about 50 nm were also observed for iron-oxide nanoparticles coated with PEG and DEXTRAN.35 We noted that the hydrodynamic diameter results critical for the performance of nanoparticles for drug delivery applications.36 Specifically, for in vivo experiments, it is observed that nanoparticles larger than 80 nm are quickly uptaken by the reticuloendothelial system (RES) by macrophages in the liver and spleen.37

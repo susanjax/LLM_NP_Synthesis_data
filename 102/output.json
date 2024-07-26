@@ -1,13 +1,58 @@
-{'method':[],
-'solvent':['water'],
-'solvent_v':[20],
+{'method':['']
+'solvent':['deionised water'],
+'solvent_v':[],
 'temperature':[80],
 'ph':[],
-'precursors':[{"precursor": "Co(NO3)2⋅6H2O","precursor_conc":, "precursor_mass":1},{"precursor":"Mn(NO3)2⋅4H2O","precursor_conc":, "precursor_mass":1}],
-'additives':[{"additive":"nitric acid","additive_conc":[],"additive_mass":},{"additive":"ethylene glycol","additive_conc":[],"additive_mass":}],
+'precursors':[{"precursor":"tetraethyl orthosilicate(TEOS, 99%)","precursor_conc":560,"precursor_mass":}],
+'additives':[{"additive":"Cetyltrimethylammonium tosylate (CTATos)","additive_conc":33.7,"additive_mass":},{"additive":"triethanolamine (TEAH3, 98%)","additive_conc":18.6,"additive_mass":},{"additive":"","additive_conc":,"additive_mass":}],
 'seeds':[],
-'composition':['Co1.5Mn1.5O4'],
-'sizes':[{"length":140,"width":140,"depth":140}],
-'crystal system':['cubic'],
-'pdfno':[],
-'shape':['blocky']}
+'composition':['mesoporous silica nanoparticles (MSNs)'],
+'sizes':[{"length":120,"width":120,"depth":120}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':['toluene'],
+'solvent_v':[],
+'temperature':[80],
+'ph':[],
+'precursors':[{"precursor":"MSNs","precursor_conc":,"precursor_mass":1}],
+'additives':[{"additive":"(3-aminopropy)triethoxysilane (APTES, 98%)","additive_conc":100,"additive_mass":}],
+'seeds':[],
+'composition':['NH2-MSNs'],
+'sizes':[{"length":120,"width":120,"depth":120}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[25],
+'ph':[],
+'precursors':[{"precursor":"NH2-MSNs","precursor_conc":,"precursor_mass":1}],
+'additives':[{"additive":"pyromellitic dianhydride (PMDA, 97%)","additive_conc":100,"additive_mass":}],
+'seeds':[],
+'composition':['COOH-MSNs'],
+'sizes':[{"length":120,"width":120,"depth":120}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"COOH-MSNs","precursor_conc":,"precursor_mass":1}],
+'additives':[{"additive":"cis-diammineplatinum(II) dichloride (cisplatin, CDDP, ≥99.9%)","additive_conc":20,"additive_mass":}],
+'seeds':[],
+'composition':['Pt/COOH-MSNs'],
+'sizes':[{"length":120,"width":120,"depth":120}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+
+
