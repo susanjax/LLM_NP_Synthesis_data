@@ -1,0 +1,13 @@
+{'method':['biosynthesiS']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[65],
+'ph':[],
+'precursors':[{"precursor":"silver nitrate","precursor_conc":1,"precursor_mass":0.005}],
+'additives':[{"additive":"Origanum ehrenbergii Boiss leaf extract","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Ag/AgCl-NPs'],
+'sizes':[{"length":12.9,"width":12.9,"depth":12.9}],
+'crystalsystem':['cubic '],
+'pdfno':[''],
+'shape':['pseudo-spherical']}

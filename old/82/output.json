@@ -1,0 +1,29 @@
+{'method':['chemical reduction']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[25],
+'ph':[],
+'precursors':[{"precursor":"AgNO3 ","precursor_conc":1,"precursor_mass":}],
+'additives':[{"additive":"NaBH4","additive_conc":2,"additive_mass":}],
+'seeds':[],
+'composition':['AgNPs'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':['cubic'],
+'pdfno':[''],
+'shape':['quasi-spherical']}
+
+
+{'method':['chemical reduction']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[25],
+'ph':[],
+'precursors':[{"precursor":"AgNO3 ","precursor_conc":1,"precursor_mass":}],
+'additives':[{"additive":"NaBH4","additive_conc":2,"additive_mass":},{"additive":"polyvinylpyrrolidone","additive_conc":2,"additive_mass":}],
+'seeds':[],
+'composition':['PVP-coated AgNPs'],
+'sizes':[{"length":16,"width":16,"depth":16}],
+'crystalsystem':['cubic'],
+'pdfno':[''],
+'shape':['quasi-spherical']}
+

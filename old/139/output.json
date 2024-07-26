@@ -1,0 +1,13 @@
+{'method':['']
+'solvent':['de-ionized water'],
+'solvent_v':[100],
+'temperature':[160],
+'ph':[8.5],
+'precursors':[{"precursor":"zinc nitrate hexahydrate (Zn (NO3)2.6 H2O)","precursor_conc":,"precursor_mass":0.44}],
+'additives':[{"additive":"Curcumin","additive_conc":,"additive_mass":0.74},{"additive":"NaOH","additive_conc":100,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO NPs'],
+'sizes':[{"length":85,"width":85,"depth":85}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['sphere']}

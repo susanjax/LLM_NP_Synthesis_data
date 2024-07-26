@@ -1,0 +1,13 @@
+{'method':[],
+'solvent':['water'],
+'solvent_v':[10],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Copper acetate","precursor_conc":3,"precursor_mass":}],
+'additives':[{"additive":"Tamarindus indica extract","additive_conc":,"additive_mass":}],
+'seeds':[],
+'composition':['CuO'],
+'sizes':[{"length":45,"width":45,"depth":45}],
+'crystalsystem': ['monoclinic'],
+'pdfno':[],
+'shape':['cube']}

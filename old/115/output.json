@@ -1,0 +1,27 @@
+{'method':['']
+'solvent':['deionized water'],
+'solvent_v':[500],
+'temperature':[50],
+'ph':[10],
+'precursors':[{"precursor":"nickel nitrate hexahydrate","precursor_conc":5,"precursor_mass":0.73}],
+'additives':[{"additive":"P. emodi leaf extract","additive_conc":,"additive_mass":},{"additive":"NaOH","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['NiO NPs'],
+'sizes':[{"length":22.37,"width":22.37,"depth":22.37}],
+'crystalsystem':['cubic'],
+'pdfno':['JCPDS 01–073-1519'],
+'shape':['porous']}
+
+{'method':['']
+'solvent':['deionized water'],
+'solvent_v':[500],
+'temperature':[50],
+'ph':[10],
+'precursors':[{"precursor":"nickel nitrate hexahydrate","precursor_conc":5,"precursor_mass":0.73}],
+'additives':[{"additive":"P. emodi leaf extract","additive_conc":,"additive_mass":},{"additive":"NaOH","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['NiO NPs'],
+'sizes':[{"length":22.37,"width":22.37,"depth":22.37}],
+'crystalsystem':['cubic'],
+'pdfno':['JCPDS 01–073-1519'],
+'shape':['sheet']}

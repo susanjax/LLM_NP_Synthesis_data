@@ -1,0 +1,13 @@
+{'method':['Green synthesis']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Ferric Chloride","precursor_conc":100,"precursor_mass":}],
+'additives':[{"additive":"Piper betel leaf extract","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':[' α-Fe2O3 NPs'],
+'sizes':[{"length":25.17,"width":25.17,"depth":25.17}],
+'crystalsystem':['rhombohedral'],
+'pdfno':['JCPDS card no. 33-0664'],
+'shape':['cubic']}

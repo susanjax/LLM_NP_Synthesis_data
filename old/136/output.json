@@ -1,0 +1,13 @@
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"Zn(NO3)2·6H2O","precursor_conc":130,"precursor_mass":}],
+'additives':[{"additive":"NaOH","additive_conc":1300,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO NPs'],
+'sizes':[{"length":49,"width":49,"depth":49}],
+'crystalsystem':['hexagonal'],
+'pdfno':[''],
+'shape':['']}

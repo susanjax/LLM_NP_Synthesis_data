@@ -1,0 +1,13 @@
+{'method':['Biogenic synthesis']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":" H[AuCl4].3H2O","precursor_conc":1.269,"precursor_mass":}],
+'additives':[{"additive":"Fagonia arabica leaves (FALE)","additive_conc":,"additive_mass":0.02}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['FALE@AuNPs'],
+'sizes':[{"length":59,"width":59,"depth":59}],
+'crystalsystem':['cubic'],
+'pdfno':['JCPDS 04- 0784'],
+'shape':['spherical']}

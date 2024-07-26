@@ -1,0 +1,41 @@
+{'method':['top down']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[45],
+'ph':[],
+'precursors':[{"precursor":"Zinc nitrate","precursor_conc":,"precursor_mass":14.47}],
+'additives':[{"additive":"sodium hydroxide","additive_conc":200,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO NPs'],
+'sizes':[{"length":24.84,"width":24.84,"depth":24.84}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+{'method':['top down']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[45],
+'ph':[],
+'precursors':[{"precursor":"Zinc nitrate","precursor_conc":,"precursor_mass":14.47}],
+'additives':[{"additive":"sodium hydroxide","additive_conc":200,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO NPs'],
+'sizes':[{"length":24.84,"width":24.84,"depth":24.84}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['hexagonal']}
+
+{'method':['top down']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[45],
+'ph':[],
+'precursors':[{"precursor":"Zinc nitrate","precursor_conc":,"precursor_mass":14.47}],
+'additives':[{"additive":"sodium hydroxide","additive_conc":200,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO NPs'],
+'sizes':[{"length":24.84,"width":24.84,"depth":24.84}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['oval']}

@@ -1,0 +1,27 @@
+{'method':['biosynthesis']
+'solvent':['water'],
+'solvent_v':[],
+'temperature':[],
+'ph':[12],
+'precursors':[{"precursor":"AgNO3","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"S. pachycarpa extract","additive_conc":,"additive_mass":0.3}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['SPE-AgNPs'],
+'sizes':[{"length":32,"width":32,"depth":32}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+{'method':['biosynthesis']
+'solvent':['water'],
+'solvent_v':[],
+'temperature':[],
+'ph':[12],
+'precursors':[{"precursor":"AgNO3","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"S. pachycarpa extract","additive_conc":,"additive_mass":0.3}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['SPE-AgNPs'],
+'sizes':[{"length":36,"width":36,"depth":36}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['oval']}

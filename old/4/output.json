@@ -1,0 +1,13 @@
+{'method':['chemical reduction'],
+'solvent':['water'],
+'solvent_v':[32],
+'temperature':[30],
+'ph':[],
+'precursors':[{"precursor":"AgNO3","precursor_conc":1, "precursor_mass":}],
+'additives':[{"additive":"CMC","additive_conc":500, "additive_mass":},{"additive":"D glucose","additive_conc":100, "additive_mass":}],
+'seeds':[],
+'composition':['Ag'],
+'sizes':[{"length":10,"width":10,"depth":10}],
+'crystalsystem': ['cubic'],
+'pdfno':[],
+'shape':['spherical']}

@@ -1,0 +1,27 @@
+{'method':['sol–gel synthesis']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[70],
+'ph':[],
+'precursors':[{"precursor":"silver nitrate monohydrate","precursor_conc":,"precursor_mass":8.491 }],
+'additives':[{"additive":"sodium sulphide","additive_conc":,"additive_mass":1.950},{"additive":"N-Methyl-2-pyrrolidone","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Ag2S NPs'],
+'sizes':[{"length":42,"width":42,"depth":42}],
+'crystalsystem':['monoclinic '],
+'pdfno':['ICDD-JCPDS 00–014-0072'],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':['doubly ionised distilled water,'],
+'solvent_v':[60 ],
+'temperature':[70 ],
+'ph':[],
+'precursors':[{"precursor":"AgNO3","precursor_conc":,"precursor_mass":8.067 },{"precursor":"Cu(NO3)2","precursor_conc":,"precursor_mass":0.603 }],
+'additives':[{"additive":"sodium sulphide","additive_conc":,"additive_mass":1.951},{"additive":"N-Methyl-2-pyrrolidone","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['Cu/Ag2SNPs'],
+'sizes':[{"length":23,"width":23,"depth":23}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}

@@ -1,0 +1,56 @@
+{'method':['Green synthesis']
+'solvent':['deionized (DI) water'],
+'solvent_v':[],
+'temperature':[65],
+'ph':[],
+'precursors':[{"precursor":"AgNO3 ","precursor_conc":1,"precursor_mass":}],
+'additives':[{"additive":"Gum Arabic","additive_conc":1,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['GA-Ag NPs'],
+'sizes':[{"length":144.2,"width":144.2,"depth":144.2}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical ']}
+
+{'method':['']
+'solvent':['methanol'],
+'solvent_v':[],
+'temperature':[25],
+'ph':[],
+'precursors':[{"precursor":"quercitrin","precursor_conc":,"precursor_mass":0.01},{"precursor":"GA-Ag NPs","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['GA-Ag-Q NPs'],
+'sizes':[{"length":208.93 ,"width":208.93 ,"depth":208.93 }],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical ']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[25],
+'ph':[],
+'precursors':[{"precursor":"casein","precursor_conc":,"precursor_mass":0.01},{"precursor":"GA-Ag-Q NPs","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['GA-Ag-Q-Cs NPs'],
+'sizes':[{"length":214.9 ,"width":214.9 ,"depth":214.9 }],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical ']}
+
+
+{'method':['self-polymerization']
+'solvent':[' DI water'],
+'solvent_v':[],
+'temperature':[4],
+'ph':[],
+'precursors':[{"precursor":"GA-Ag-Q NPs","precursor_conc":,"precursor_mass":}],
+'additives':[{"additive":"tris buffer","additive_conc":10,"additive_mass":},{"additive":"dopamine hydrochloride","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['GA-Ag-Q-PDA NPs'],
+'sizes':[{"length":253.6,"width":253.6,"depth":253.6}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical ']}

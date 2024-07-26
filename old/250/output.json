@@ -1,0 +1,14 @@
+{'method':['Biosynthesis']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[95],
+'ph':[10],
+'precursors':[{"precursor":"NiCl2","precursor_conc":4.0,"precursor_mass":}, {"precursor":"FeCl3","precursor_conc":4.0,"precursor_mass":}],
+'additives':[{"additive":"M. koenigii extract","additive_conc":,"additive_mass":},{"additive":"NaOH","additive_conc":1000,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['NiFe2O4 NPs'],
+'sizes':[{"length":4,"width":4,"depth":4}],
+'crystalsystem':['cubic'],
+'pdfno':['JCPDS 10-0325'],
+'shape':['spherical']}
+

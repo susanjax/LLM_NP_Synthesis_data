@@ -1,0 +1,41 @@
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"ZnSO4","precursor_conc":1,"precursor_mass":}],
+'additives':[{"additive":"Fungal culture filtrate","additive_conc":,"additive_mass":}],
+'seeds':[],
+'composition':['ZnO-NPs'],
+'sizes':[{"length":75,"width":75,"depth":75}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"ZnSO4","precursor_conc":1,"precursor_mass":}],
+'additives':[{"additive":"Fungal culture filtrate","additive_conc":,"additive_mass":}],
+'seeds':[],
+'composition':['ZnO-NPs'],
+'sizes':[{"length":75,"width":75,"depth":75}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['triangular']}
+
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"ZnSO4","precursor_conc":1,"precursor_mass":}],
+'additives':[{"additive":"Fungal culture filtrate","additive_conc":,"additive_mass":}],
+'seeds':[],
+'composition':['ZnO-NPs'],
+'sizes':[{"length":75,"width":75,"depth":75}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['hexagonal']}

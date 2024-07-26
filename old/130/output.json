@@ -1,0 +1,14 @@
+{'method':['sol-gel technique']
+'solvent':['distilled water'],
+'solvent_v':[20],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"zinc chloride","precursor_conc":,"precursor_mass":2}],
+'additives':[{"additive":"sodium hydroxide","additive_conc":,"additive_mass":10},{"additive":"ethanol","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['ZnO NPs'],
+'sizes':[{"length":,"width":,"depth":}],
+'crystalsystem':['hexagonal'],
+'pdfno':[''],
+'shape':['spherical']}
+

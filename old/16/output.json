@@ -1,0 +1,13 @@
+{'method':['reduction'],
+'solvent':['water'],
+'solvent_v':[10],
+'temperature':[50],
+'ph':[],
+'precursors':[{"precursor":"CuSO4·5H2O","precursor_conc":5,"precursor_mass":}],
+'additives':[{"additive":,"additive_conc":,"additive_mass":}],
+'seeds':[],
+'composition':['CuO'],
+'sizes':[{"length":9,"width":9,"depth":9}],
+'crystalsystem': ['monoclinic'],
+'pdfno':['ICDD 80-1916'],
+'shape':['spherical']}

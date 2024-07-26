@@ -1,0 +1,14 @@
+{'method':['biosynthesis']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[],
+'precursors':[{"precursor":"AgNO3","precursor_conc":1,"precursor_mass":}],
+'additives':[{"additive":"S. marcescens extract","additive_conc":,"additive_mass":},{"additive":"acetone","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['AgNPs'],
+'sizes':[{"length":17.75,"width":17.75,"depth":17.75}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['spherical']}
+

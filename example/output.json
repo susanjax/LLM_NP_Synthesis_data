@@ -1,0 +1,13 @@
+{"method":["str"],
+"solvent":["str"],
+"solvent_v":[null],
+"temperature":[null],
+"ph":[],
+"precursors":[{"precursor":"str","precursor_conc":null,"precursor_mass":null},{"precursor":"str","precursor_conc":null,"precursor_mass":null}],
+"additives":[{"additive":"str","additive_conc":null,"additive_mass":null},{"additive":"str","additive_conc":null,"additive_mass":null}],
+"seeds":[{"seed":"str","seed_conc":null,"seed_mass":null}],
+"composition":["str"],
+"sizes":[{"length":null,"width":null,"depth":null}],
+"crystal system":["str"],
+"pdfno":["str"],
+"shape":["str"]}

@@ -1,0 +1,13 @@
+{'method':['Biosynthesis']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[37],
+'ph':[],
+'precursors':[{"precursor":"AgNO3","precursor_conc":1,"precursor_mass":}],
+'additives':[{"additive":"Oxalis griffithii leaves extract","additive_conc":,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['AgNPS'],
+'sizes':[{"length":30,"width":30,"depth":30}],
+'crystalsystem':['cubic'],
+'pdfno':['JCPDS No. 04-0873'],
+'shape':['spherical']}

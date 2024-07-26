@@ -1,0 +1,13 @@
+{'method':['co-precipitation'],
+'solvent':['H2O'],
+'solvent_v':[100],
+'temperature':[80],
+'ph':[],
+'precursors':[{"precursor":"FeCl3","precursor_conc":100,"precursor_mass":},{"precursor":"FeCl2","precursor_conc":50,"precursor_mass":}],
+'additives':[{"additive":"NaOH","additive_conc":,"additive_mass":},{"additive":"Oleic acid","additive_conc":,"additive_mass":10}],
+'seeds':[],
+'composition':['Fe3O4-OA NPs'],
+'sizes':[{"length":39.3,"width":39.3,"depth":39.3}],
+'crystalsystem':[],
+'pdfno':[],
+'shape':[]}

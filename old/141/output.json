@@ -1,0 +1,13 @@
+{'method':['']
+'solvent':[''],
+'solvent_v':[],
+'temperature':[],
+'ph':[11],
+'precursors':[{"precursor":"Ferric chloride hexahydrate","precursor_conc":100,"precursor_mass":}],
+'additives':[{"additive":"papaya leaves extract","additive_conc":,"additive_mass":},{"additive":"NaOH","additive_conc":1000,"additive_mass":}],
+'seeds':[{"seed":'',"seed_conc":,"seed_mass":}],
+'composition':['α-Fe2O3 nanoparticles'],
+'sizes':[{"length":21.59,"width":21.59,"depth":21.59}],
+'crystalsystem':[''],
+'pdfno':[''],
+'shape':['']}
