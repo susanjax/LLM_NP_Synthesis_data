@@ -1,0 +1,53 @@
+2.2. Synthesis of AgNPs
+Fresh ginger was obtained from a local market in Jeonju City, South Korea, and was cleaned with deionized water (D·H2O). The ginger was sliced and dried in an oven. Subsequently, 5 g of the dried ginger were mixed with 50 mL of D·H2O and boiled at 70 °C for 3 h. After cooling down, the resulting extract was filtered using Whatman filter paper, followed by sonication for 10 min at 40 kHz. To prepare the AgNO3 solution, 8.5 mg (1 mM) of AgNO3 was dissolved in 25 mL of D·H2O, and this solution was then mixed with 25 mL of the ginger extract. The mixture was heated at 70 – 80 °C. After 30 min, the reaction mixture changed color from transparent to sparkling yellow and subsequently to sparkling brown after 1 h, indicating the synthesis of AgNPs. The formation of AgNPs was confirmed by monitoring the UV–Vis absorption spectrophotometric (Hewlett Packard (HP 8453) throughout the reaction.
+
+2.2.1. Synthesis of CsNPs
+The CsNPs were prepared by optimizing the previously reported protocol of 
+Krishnaraj et al., (2022)
+. Briefly, a chitosan solution was prepared by slowly dissolving 40 mg of chitosan in 100 mL of 1 % acetic acid. The pH of the solution was carefully adjusted to > 6 using 1 M NaOH. Subsequently, 25 mL of the ginger extract was introduced into the chitosan solution, and the two constituents were carefully mixed using a magnetic stirrer. In this stirring, 8 mL of 0.1 % STPP was gradually added dropwise through a syringe needle, all while the stirring process continued for 45 min. The resultant mixture was stored at room temperature for 24 h. The formation of CsNPs was validated through UV–Vis spectrophotometric analysis (Hewlett Packard (HP 8453).
+
+2.2.2. Synthesis of Cs/AgNCs
+To synthesize the Cs/AgNCs, a solution of 100 mL of AgNPs was synthesized by following the earlier used protocol mentioned in the previous section (2.2). To this, a chitosan solution was prepared by slowly dissolving 40 mg of chitosan in 100 mL of 1 % acetic acid. The pH of the solution was carefully adjusted to > 6 using 1 M NaOH. Subsequently, a ginger extract of 25 mL was added to the mixture and thoroughly stirred via a magnetic stirrer. Using a syringe needle, 8 mL of a 0.1 % solution of STPP was carefully added drop by drop into the test solution. The resulting mixture was stirred for 45 min, after which it was left undisturbed at room temperature for 24 h. Regular sampling was conducted for analysis using a UV–Vis spectrophotometer (Hewlett Packard (HP 8453).
+
+2.2.3. Synthesis of Cs/AgNCs/tbn
+To conjugate Cs/AgNCs with tobramycin, EDC and Sulfo-NHS were used. Using Sulfo-NHS, carboxyl groups are turned into an amine-reactive ester, facilitating cross-linking or bioconjugation. It is a charged version of NHS (N-hydroxy succinimide) and can be used to modify carbodiimide crosslinking reactions. A carboxylate (–COOH) present in the polymer molecule is activated so that it can be conjugated with the primary amine (–NH2) found in tobramycin (
+Armijo et al., 2020
+). Initially, 10 mg of tobramycin was dissolved in a mixture of 20 mL of DMSO and D·H2O in a 1:1 ratio. The solution was then sonicated for 20 min at 50 kHz. Following this, 5 mg of EDC was added to the solution while continuously stirring. Subsequently, 5 mg of NHS was added, and the pH was adjusted to 6. The solution was kept in the dark for 3 – 4 h to allow the conjugation reaction to occur (forming “solution 1″). Next, 20 mg of Cs/AgNCs was suspended in 5 mL of a 1:1 mixture of DMSO and D·H2O This suspension was added to ”solution 1,“ and the pH was adjusted to 8. The mixture underwent stirring for 12 h. Once the specified time elapsed, the solution was centrifuged at a speed of 7000 rpm for 12 min. The supernatant was removed, and the resulting pellet was washed three times using DMSO followed by ethanol. Later, the remaining pellet was dried at a temperature of 65 °C for 3 h to obtain the conjugate nanoparticles. The characterization of the conjugate nanoparticles was performed using FTIR. Finally, the nanoparticles were stored at 4 °C for further usage (
+Tyagi et al., 2020
+). 
+Fig. 1
+. Describes the formation of Cs/AgNCs/tbn.
+
+Characterization of nanomaterials
+TEM and HR-XRD analyses were performed to characterize and confirm the size, shape, and crystallinity of AgNPs, CsNPs, and Cs/AgNCs. For crystallinity analysis, the diffracted intensities in the whole spectrum of 2θ were recorded between 20° to 90°. The TEM image of AgNPs showed that all the AgNPs are spherical (
+Fig. 3
+a) in shape which is very important because shape plays a vital role in the antibacterial activity of nanoparticles. Previous research studies show that AgNPs with spherical shapes are more effective than AgNPs with any other shape. 
+Ciou et al., (2009)
+ argued that spherical AgNPs are more effective because they can effectively interfere with and easily penetrate the bacterial cell membrane. The average diameter of AgNPs was 19 nm making AgNPs the smallest nanoparticles used in this study. The HR-XRD spectrum of AgNPs shows characteristic peaks at 2θ angles of ∼ 38.37°, ∼44.02°, ∼64.74°, and ∼ 77.54° which is equivalent to 111, 200, 220, and 311 crystal planes respectively. However, the wider peaks represent the poor crystallinity of AgNPs as shown in 
+Fig. 4
+a. 
+Fig. 3
+b showed that the diameter of CsNPs varied between 15–30 nm with an average diameter of 22 nm. The size of nanoparticles significantly affects their antibacterial activity. It has been concluded from previous literature that nanoparticles with a smaller sizes have more significant antibacterial potential than those with larger diameters because of their cell membrane penetration potential (
+Yin et al., 2020
+). The HR-XRD spectrum of CsNPs represents characteristic peaks at 2θ angles of ∼ 8.79°, ∼11.43°, ∼29.74°, and ∼ 45.69°. These sharp narrow peaks represent the crystalline nature of CsNPs as shown in 
+Fig. 4
+b. Additional peaks related to Z. officinale compounds were also recorded. 
+Fig. 3
+c. represented the TEM images of Cs/AgNCs showing that almost all the Cs/AgNCs were spherical with increased diameters ranging between 17.09 and 46.64 nm, with 28.61 nm as their average diameter. The average diameter of Cs/AgNCs was larger than that of AgNPs and CsNPs due to their conjugation. A similar study was reported by 
+Butler et al., (2015)
+, who concluded that the size of AgNPs increases upon conjugation. The HR-XRD pattern of Cs/AgNCs displayed the characteristic peaks of both AgNPs and CsNPs as shown in 
+Fig. 4
+c. Very sharp narrow peaks of Cs/AgNCs at 2θ angle of ∼ 8.76°, ∼18.98° for CsNPs and at ∼ 37.50°, ∼44.52°, ∼66.01°, and ∼ 77.04° for AgNPs which equates to a 111, 200, 220 and 311 crystal peaks (respectively) represent the crystallinity of Cs/AgNCs. The additional peaks observed were due to the presence of secondary metabolites during the synthesis of the nanoparticles.
+The FE-SEM micrographs demonstrated spherical AgNPs with an average size of 40.3 nm (
+Fig. 5
+a). No agglomerates were found, revealing the stability of biosynthesized AgNPs, as they can be seen distinctly. The results presented that biosynthesized AgNPs possessed small grain-like particles, that were gathered to shape crystals with a smooth surface (
+Bharadwaj et al., 2021
+). The micrograph of CsNPs (
+Fig. 5
+b). showed a dense structure with agglomerated particles. The average size of CsNPs was measured to be 52.5 nm. Scattered particles on thin film were observed for Cs/AgNCs, with an average particle size of 49 nm (
+Fig. 5
+c). CsNPs were strongly attached to the surface of AgNPs which following the Chi-AgNPs synthesized by 
+Senthilkumar et al., (2019)
+. Being conjugate, Cs/AgNCs/tbn was found to be densely agglomerated (
+Fig. 5
+d). The conjugates were partly spherical with an average size of 66 nm, and similar morphologies were preserved throughout.

@@ -1,0 +1,24 @@
+Nanoparticles synthesis
+A general methodology for the synthesis of copper (CuNP), silver (AgNP), and silver/copper (Ag/CuNP) was adapted from reference 
+[21]
+ following an aqueous (co)reduction method using borohydride and hydrazine as co-reducers as described below:
+
+Firstly, 0.4 g of CuSO4.5 H2O, 0.26 g AgNO3 or 0.13 g of AgNO3 + 0.27 g of CuSO4.5 H2O (CuNP, AgNP and Ag/CuNP, respectively) were solubilized in 40 mL of aqueous 1.0% w/V chitosan solution (prepared with 2% acetic acid). These solutions were maintained at continuous stirring at 120 °C for 15 min and then 0.5 mL of a 0.05 mol L−1 ascorbic acid solution was added in the vial. After another 20 min, 2 mL of a 0.6 mol L−1 NaOH solution was added to the mixture to reach pH 10. Then 2 mL of a 0.11 mol L−1 NaBH4 aqueous solution and 3 mL of a hydrazine solution were added to the reaction flask. Immediately after the reducers addition, the solution color changed to a golden-like (AgNP), reddish-brown (Ag/CuNP) or reddish solution (CuNP), indicating the formation of the nanoparticles. The solution was kept at continuous stirring for further 30 min and then allowed to cool at room temperature. It is worthy to mention that for Ag/CuNP the metal salts were weighed in a way to obtain a 35/65 wt% Ag+/Cu2+ ratio (or approximately 50% in mol for each metal) condition for the synthesis. The final concentration of NP in the solution was 1.87 mg mL−1.
+Characterization
+The X-ray diffraction patterns for powder solid samples were obtained using a Bruker D50 Advanced diffractometer calibrated at Cu Kα radiation using an angular step of 0.02-degree s−1 and rotation of 30 rpm. XRD patterns were refined using the Rietveld method 
+[29]
+ and the TOPAS software 
+[30]
+ to identify, phase quantify, and determine the crystallite size by comparing with the Inorganic Crystal Structure Database considering: Cu (ICSD 18840), Ag (ICSD 181730), CuO (ICSD 257091), and Cu2O (ICSD 180846). For refinements of the X-ray diffraction profile of Ag/CuNP, some Ag sites were replaced by Cu and vice-versa until the best possible statistical fitting, allowing us to estimate the average composition of the produced nanoalloy. The Rietveld refinements provided weighted profile R-factor (Rwp) values lower than 1.42 and goodness of fit (GOF) values lower than 2.43, which indicate a fit quality good as described in Ref. 
+[31]
+.
+Fig. 3
+ shows that AgNP are mainly spherical in shape and are well dispersed with a diameter ranging from 15 to 30 nm and a mean diameter of 20.8 nm. Nanoparticles containing copper formed quasi-spheres that are agglomerated to each other (
+Fig. 4
+, 
+Fig. 5
+) showing individual sizes ranging from 40 to 70 nm and a mean diameter of 44.3 nm for Ag/CuNP and 63.1 nm for CuNP. These results are slightly lower than that obtained by DLS measurements (
+Table 3
+) since the latter considers the hydrodynamic diameter of the particle. Interestingly, nanoparticles average size followed the order AgNP < Ag/CuNP < CuNP. Silver nanoparticles are known to form small spherical NPs in water dispersions. On the other hand, copper clusters tends to aggregate during nucleation process due to its low water solubility, giving larger NPs 
+[45]
+. Due this effect, binary Ag/CuNPs presented intermediate sizes.

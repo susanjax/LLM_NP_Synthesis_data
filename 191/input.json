@@ -1,0 +1,97 @@
+Synthesis of nanoparticles
+Using sol-gel method, Zn(NO3)2, Pr(NO3)3, Fe(NO3)3 and C6H8O7 were weighed in precise stoichiometric amounts to obtain 0.07 mol/L in 50 mL of distilled water. The nitrates were dissolved under continuous stirring for 1 h. Subsequently, the pH of the solution was set at 10 added dropwise ammonium hydroxide. The sol was kept under continuous stirring and heated to 95 °C for 4 h until gel formation. The gel was aged for 24 h and then dried at 135 °C for 24 h. The product obtained from this step (aerogel) was heated at 400 °C for 1 h (ramp of 1 °C/min) to eliminate the organic materials present and afterwards sintered at 550 °C for 4 h (ramp of 1 °C/min) to form the phase of hexagonal wurtzite ZnO structure. All samples were prepared under the same conditions and respecting the mixture at the atomic level was respected in all the process, to prevent segregation of undesirable phases or impurities. The established formula for the chemical synthesis was: Zn1-x-yFexPryO, here (x; y) = (0.00; 0,00), (0.02; 0,00), (0.00; 0.02), (0.02; 0.01), (0.02; 0.02), (0.02; 0.03) and (0.02; 0.04) and for each individual system (pure, doped and co-doped) the chemical formula and named samples were: ZFP00 (Zn100Fe0.00Pr0.00O), ZFP20 (Zn0.98Fe0.02O), ZFP02 (Zn0.98Pr0.02O), ZFP21 (Zn0.97Fe0.02Pr0.01O), ZFP22 (Zn0.96Fe0.02Pr0.02O), ZFP23 (Zn0.95Fe0.02Pr0.03O) and ZFP24 (Zn0.94Fe0.02Pr0.04O).
+Characterization
+X-ray diffraction (XRD) measurements were performed to confirm the phase formation and to analyze the dopants effects on the ZnO structure. 
+Fig. 1
+a and c shows the XRD patterns for the undoped, doped and co-doped ZnO samples. It can be explicitly observed that, all samples show similar diffraction patterns, which are characteristic of the hexagonal wurtzite structure model of ZnO. The result was confirmed by reference code JCPDS No. 36–1451, where the diffraction peaks coincide with the reflections planes (1 0 0), (0 0 2), (1 0 1), (1 0 2), (1 1 0), (1 0 3), (2 0 0), (1 1 2), (2 0 1), (0 0 4) and (2 0 2) for the ZnO with hexagonal structure. This first observation certifies the effectiveness of the sol-gel method to obtain ZnO doped and co-doped with Fe and Pr with a single phase, under the synthesis conditions presented here.
+On the other hand, it is known that the morphology of ZnO samples can be easily modified by dopant inclusion, synthesis method, reagents, pH, temperature, etc. [
+39
+,
+[65]
+, 
+[66]
+, 
+[67]
+]. In this context, SEM images were performed on all studied samples and are shown in 
+Fig. 4
+, 
+Fig. 5
+. Analyzing the morphology of the ZFP00 sample, there is a clear formation of spherical particle agglomerates with homogeneous sizes. These particles are connected to form nanostructures in coral shapes, 
+Fig. 4
+a. Spherical particles are the classical format obtained for ZnO samples synthesized via sol gel method and are a consequence of the raw materials used during synthesis [
+39
+]. As shown in 
+Fig. 4
+b-c and 
+Fig. 5
+a-d, the doped and co-doped samples also showed spherical morphologies, with particle size decreasing as the Pr concentration increased.
+
+In this study, the lattice constants were estimated from the equation reported in the literature for the ZnO hexagonal structure [
+[33]
+, 
+[34]
+, 
+[35]
+]. This expression relates the interplanar lattice spacing, Miller indices and the lattice parameters of the structure [
+[33]
+, 
+[34]
+, 
+[35]
+]. 
+Table 1
+ presents the lattice constants (a and c) for all studied samples. For pure ZnO sample (ZFP00), a and c are 3.2472 Å and 5.2035 Å respectively, values that are in agreement with the literature results [
+28
+,
+29
+]. For ZnO samples doped with Fe (ZFP20) and Pr (ZFP02), the a and c values are 3.2468 Å, 5.2028 Å and 3.2507 Å, 5.2094 Å, respectively. In 
+Table 1
+, we can see that the lattice constants values, estimated for co-doped samples, increase as the Pr concentration increases (0.01 ≤ y ≤ 0.04). The results obtained for the lattice parameters are extremely important and confirm the substitution of Zn by Fe and Pr in the hexagonal structure of ZnO. Variations in the lattice constants for doped and co-doped systems are often associated with differences in the ionic radii of the impurities inserted [
+[33]
+, 
+[34]
+, 
+[35]
+, 
+[36]
+, 
+[37]
+]. It was found that the ionic radii of Zn2+, Fe3+ and Pr3+ are 0.74, 0.65 and 0.99 Å, respectively [
+38
+]; this justifies the changes in the lattice constants (a and c), since Fe and Pr impurities are inserted at the Zn sites in the ZnO hexagonal structure. Semiconductors are characterized by having intrinsic defects in their original structure [
+39
+,
+40
+]. The insertion of dopant impurities in some cases can attenuate these defects or even lead to the formation of new imperfections. In this work, the difference between the oxidation states of dopant ions may be a clear reason for the emergence of new defects in the ZnO structure.
+
+Table 1. Structural parameters estimated from the XRD measurements.
+
+Samples
+Parameters	ZFP00	ZFP20	ZFP02	ZFP21	ZFP22	ZFP23	ZFP24
+a (Å)	3.2472	3.2468	3.2468	3.2481	3.2492	3.2497	3.2516
+c (Å)	5.2035	5.2028	5.2094	5.2049	5.2070	5.2081	5.2128
+c/a	1.6025	1.6024	1.6024	1.6024	1.6025	1.6026	1.6031
+L(Å)	1.9763	1.9761	1.9785	1.9756	1.9775	1.9779	1.9793
+ε (%)	0.0002	0.0008	0.0011	0.0021	0.0011	0.0015	0.0007
+D (nm)	43	24	24	22	19	17	15
+δ (nm−2)	0.0005	0.0017	0.0017	0.0021	0.0028	0.0035	0.0044
+Table 1
+ also shows the c/a ratio values for all samples. Similar results were obtained for doped and co-doped samples. Even so, they differ of the expected for ZnO nanoparticles (1.633). Beltrán et al. [
+41
+] ensure that values below to suggested are an indication of structural defects contained in the structure, such as, oxygen vacancies and/or zinc vacancies. One way to evaluate the influence of Fe and Pr insertion on the ZnO structure is relating the lattice parameters a and c with the positional parameter u, well established for ZnO with wurtzite structure [
+33
+,
+34
+]. The parameter u indicates how far each atom is displaced in comparations to the neighbor along the ‘c’ axis. The correlation between these parameters, allows us to estimate the Zn–O bond length (L) for ZnO nanostructures and whose equation has been widely reported in the literature [
+[42]
+, 
+[43]
+, 
+[44]
+, 
+[45]
+]. For all samples the Zn–O bond length values are shown in 
+Table 1
+. For pure ZnO sample (ZFP00), L is 1.9763 Å, showing a good agreement between the calculated and reported length for the ZnO unit cell in bulk and neighboring atoms (1.9767 Å) [
+45
+].
