@@ -4,7 +4,7 @@
 "temperature":[],
 "ph":[],
 "precursors":[{"precursor":"AgNO3","precursor_conc":1,"precursor_mass":0.5}],
-"additives":[{"additive":"E. indica ethanol extract","additive_conc":,"additive_mass":}],
+"additives":[{"additive":"E. indica ethanol extract","additive_conc":null,"additive_mass":null}],
 "seeds":[],
 "composition":["E. indica-AgNPs"],
 "sizes":[{"length":25.4,"width":25.4,"depth":25.4}],
