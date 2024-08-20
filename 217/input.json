@@ -1,0 +1,49 @@
+Synthesis
+2.3.1. Extraction of aqueous Nigella sativa
+NS seeds were washed with distilled water before usage. Then, 20 g of the seeds were boiled in 100 mL of distilled water for 30 min at 100 °C with reflux
+[18]
+. The residue was removed by suction filtration, and the NS extract in the filtrate was stored at 4 °C for later use. The extract was characterized by FTIR (
+Fig. S1
+)
+[18]
+,
+[31]
+,
+[32]
+,
+[33]
+,
+[34]
+.
+
+2.3.2. BDC isolation from PET bottles
+After removing the bottle caps and labels, the bottles were sliced into 1 × 1 cm2 flakes, rinsed with distilled water, and dried in an oven. In a 10 M NaOH solution, 100 g of cutting flasks were added, and the solution was vigorously stirred at 100 °C for 10 h
+[29]
+,
+[35]
+. After cooling to room temperature to 5 °C by an ice bath, the solution was treated with concentrated sulfuric acid until pH= 2. The white precipitate was filtered and washed with distilled water many times until the aqueous filtrate was free from SO42- ions. The residue was then dried in an oven overnight at 100 °C to yield DBC as a white powder at a low cost (
+Table S1
+). 1H NMR (DMSO-d6, 400 MHz, (
+Fig. S2
+ (a)): δ = 8.07 (s, 4 HAr), 13.32 (S, 2 HCOOH). HR-MS calculated of C8H6O4 ([M-H] +): 165.0193, found: 165.0193 (
+Fig. S2
+ (b)).
+
+2.3.3. Cr3+ reduction from Cr6+
+K2Cr2O7 (0.75 g, 2.5 mmol) was dissolved in 60 mL of distilled water and gradually added Na2S2O5 (1.45 g, 7.5 mmol). The solution mixture was then stirred for 30 min at a pH of 2.1 with the addition of concentrated HNO3
+[30]
+,
+[36]
+. The color of the solution was changed from orange to green (
+Fig. S3
+ (a)). XPS observes a complete reduction of Cr6+ to Cr3+.
+
+2.3.4. Synthesis of MIL-101(Cr)
+The isolated BDC (1 g, 6 mmol) was added to the obtained Cr3+ solution from the previous step (∼60 mL). The reaction mixture was transferred into a 100 mL Teflon-lined autoclave-sealed vessel and heated at 220 oC for 12 h. After cooling to room temperature, the green product was washed with water and hot EtOH several times to remove the unreacted BDC. The obtained MIL-101(Cr) was dried at 100 oC, then activated in a vacuum oven for 12 h at 140 oC before use. Control experiment: the previous procedures used the commercial BDC and Cr(NO3)3 as raw materials to obtain the S-MIL-101(Cr) framework.
+
+2.3.5. Preparation of G-MIL-101(Cr)@Ag composites
+Three different samples of G-MIL-101(Cr)@Ag composites were prepared by using different volumes of the aqueous NS extract (5%, 10%, and 15% (v/v)). Typically, G-MIL-101(Cr) (0.168 g) was added to 100 mL of aqueous AgNO3 (0.01 M, 10 mM), followed by sonication in a water bath for 20 min. Then, the NS extract was added (5% (v/v)). The solution was stirred at 100 oC with reflux for 4 h. The suspension color was changed from light green to dark brown (
+Fig. S3
+ (b)). The precipitate was separated by centrifuge and washed with water and ethanol, alternately, three times to remove unboosted Ag NPs onto G-MIL-101(Cr). The obtained G-MIL-101(Cr)@Ag composite was dried at 100 oC for 12 h and donated G-MIL-101(Cr)@Ag-5% according to the volume of NS extract used in the reduction. Same procedures were applied to prepare G-MIL-101(Cr)@Ag-10% and G-MIL-101(Cr)@Ag-15% by using NS extract 10% and 15% (v/v), respectively. Control experiment: Ag NPs are prepared without the addition of G-MIL-101(Cr) (
+Fig. S3
+ (c)).
