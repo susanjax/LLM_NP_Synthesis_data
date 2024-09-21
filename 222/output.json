@@ -2,12 +2,12 @@
 "solvent":[],
 "solvent_v":[],
 "temperature":[],
-"ph":[],
-"precursors":[{"precursor":"","precursor_conc":null,"precursor_mass":null}],
-"additives":[{"additive":"","additive_conc":null,"additive_mass":null}],
+"ph":[7.2],
+"precursors":[{"precursor":"ZnNO3","precursor_conc":0.1,"precursor_mass":null}],
+"additives":[{"additive":"endophytic fungus FCBGr extracellular culture filtrate","additive_conc":null,"additive_mass":null}],
 "seeds":[],
-"composition":["str"],
-"sizes":[{"length":null,"width":null,"depth":null}],
+"composition":["ZnONPs"],
+"sizes":[{"length":57,"width":57,"depth":57}],
 "crystal system":[],
 "pdfno":[],
-"shape":[]}
+"shape":["hexagonal"]}

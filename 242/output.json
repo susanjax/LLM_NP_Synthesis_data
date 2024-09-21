@@ -3,11 +3,11 @@
 "solvent_v":[],
 "temperature":[],
 "ph":[],
-"precursors":[{"precursor":"","precursor_conc":null,"precursor_mass":null}],
-"additives":[{"additive":"","additive_conc":null,"additive_mass":null}],
+"precursors":[{"precursor":"AuCl3","precursor_conc":1,"precursor_mass":null}],
+"additives":[{"additive":"Jatropha integerrima aqueous extract","additive_conc":null,"additive_mass":null}],
 "seeds":[],
-"composition":["str"],
-"sizes":[{"length":null,"width":null,"depth":null}],
-"crystal system":[],
-"pdfno":[],
-"shape":[]}
+"composition":["JIF-AuNPs"],
+"sizes":[{"length":37.7,"width":37.7,"depth":37.7}],
+"crystal system":["cubic"],
+"pdfno":["ICDD No. 4-0783"],
+"shape":["spherical"]}
