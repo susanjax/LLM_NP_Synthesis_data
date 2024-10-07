@@ -1,0 +1,39 @@
+ Preparation of silver nanoparticles (Ag-NPs) and zeolite+Ag-NPs
+The synthesis of the silver colloid involved a chemical reduction method
+[23]
+,
+[24]
+, with all reactant solutions prepared using distilled water. In a standard procedure, 50 mL of 0.001 M AgNO3 was heated up to the boiling point of water, followed by the gradual addition of 5 mL of a 1% trisodium citrate (TSC) solution as the reducing agent. Throughout this process, the solutions were vigorously mixed and heated until a discernible change in color occurred, resulting in a pale yellow hue
+[33]
+,
+[34]
+,
+[35]
+,
+[36]
+. The underlying mechanism of these reactions can be succinctly expressed in
+Eq. (1)
+
+[23]
+. Silver ions were introduced into the porous zeolite lattice through an ion-exchange process, leading to the formation of Ag-NPs within the zeolite framework. The nanoporous crystals within the zeolite allow us to control particle size and achieve a uniform distribution of Ag-NPs on the internal surface, serving as an excellent example of modified zeolite.
+(1)4 Ag+ + C6H5O7Na3 + 2 H2O → 4 Ag° + C6H5O7H3 + 3 Na+ + H+ + O2↑
+
+ Fig. 13
+b illustrates a comparative XRD analysis among four materials: zeolite, zeolite with bromide ions, zeolite with Ag-NPs, and zeolite with Ag-NPs and bromide ions. The presence of multiple peaks in the XRD spectra confirms the stability of zeolite when compared to previously reported spectra
+[42]
+,
+[43]
+. The peaks observed at 2θ values of 38.11°, 44.52° and 62.30° correspond to the crystallographic planes 111, 200, and 220, respectively, indicating the incorporation of silver nanoparticles into zeolite
+[42]
+. Based on the XRD pattern in
+Fig. 13
+b, the average size of the metallic Ag-NPs deposited on zeolite was determined. This calculation was performed using the peak observed at 2θ = 38.11°, which exhibited a full width at half maximum (FWHM) of approximately 0.277. The calculation was carried out employing Debye–Scherrer's formula, as described in
+Eq. (7)
+
+[44]
+,
+[45]
+.
+(7)
+here, λ signifies the X-ray wavelength, β indicates the full width at half-maximum (FWHM), θ represents the Bragg angle, and K corresponds to Scherrer constant (0.94).
+The calculated size of the Ag-NPs was approximately 30 nm. The adsorption of bromide ions onto the adsorbent material did not result in any notable alterations in crystalline structure, indicating the stability of the particles. In nutshell, this study presents zeolite combined with Ag-NPs for sustainable and multifunctional water treatment solutions.
