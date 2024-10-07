@@ -1,0 +1,31 @@
+Preparation of Mesoporous Silica Nanoparticles (MSNs)
+MSNs with 2D hexagonal mesoporous arrangement were prepared following the modified Stöber's sol-gel process previously reported in the literature (
+Fig. 1
+) [
+59
+]. Briefly, 1 g (2.74 mmol) of cetyltrimethylammonium bromide (CTAB) was dissolved in 480 mL of Milli-Q water containing 3.5 mL of NaOH (2 M) in a 1 L round-bottom flask and kept in mild stirring to allow the total structure directing agent solubilization. Then, the mixture was heated at 80 °C and 5 mL (22.4 mmol) of tetraethyl orthosilicate (TEOS) were added dropwise with a pump injector NE-300 (New Era Pump systems, Inc. NY, USA) at a rate of 0.25 mL/min and was stirred for 2 h. The flask was cooled down rapidly in an ice bath and the nanoparticles were collected by centrifugation (10,000 rpm, 15 min), washed twice with Milli-Q water and twice with absolute ethanol and dried at 70 °C. 1 g of surfactant-containing MSNs was well-dispersed in 350 mL of extracting solution and the surfactant was removed by ionic exchange using 350 mL of a hydro-alcoholic (EtOH/H2O 95:5) solution of 10 mg/L of ammonium nitrate (NH4NO3) at 75 °C overnight under magnetic stirring (ion exchange procedure was repeated twice). The final product was centrifuged (10,000 rpm, 15 min), washed three times with absolute ethanol and dried at 70 °C for storage.
+
+Preparation of Br-SQ loaded MSNs
+To load the Br-SQ into the pores of the MSNs, the adsorption method previously described by the authors has been followed [
+53
+] (
+Fig. 1
+). A solution of Br-SQ (8 mM) was added to a solution of MSNs (6 mg/mL) in dichloromethane (DCM) and stirred for 24 h in dark condition, to avoid the dye degradation. The suspension was then centrifuged twice at 10,000 rpm and 10 °C for 10 min. After each cycle, the supernatant was removed and replaced with 10 mL of DCM to remove the non-loaded Br-SQ. The obtained Br-SQ loaded MSNs were finally oven-dried at 35 °C for 48 h, to remove the solvent. Sample will be hereafter named as Br-SQ_MSN.
+
+Field emission scanning electron microscopy (FE-SEM) images of bare MSN (
+Fig. S1A
+) showed nanoparticles with a monodispersed spherical shape with size ranging between 120 and 150 nm. The NPs size and shape of Br-SQ_MSN resulted very similar to those reported for non-loaded samples (
+Fig. S1B
+), confirming that SQ incorporation does not significantly alter the morphological features of MSNs. The characterization by TEM shows discrete nanoparticles having a spherical morphology with an average particle diameter of ca. 150 nm (
+Fig. 2
+A). In addition, TEM images revealed well-defined ordered pore structure with hexagonal 2D mesochannels typical of p6mm symmetry and pore diameters of approximately ∼2 nm [
+62
+] according with their textural properties (see below). The comparison of TEM images before and after SQ loading demonstrated that the presence of the Br-SQ complex inside the pores of the nanoparticles did not modify neither the nanoparticle morphology nor the 2D hexagonal symmetry. An enlargement of the marked areas in
+Fig. 2
+B shows the mesoporous order observed in both projections, perpendicular and parallel to the mesoporous channels.
+
+The hydrodynamic diameters (DH) of the pure-silica MSN and Br-SQ_MSN samples were measured by dynamic light scattering (DLS) in water medium, displaying good dispersions with a narrow size distribution for both samples. The DH of the nanoparticles (
+Table 1
+) was found to be 155 nm for MSN and 175 nm for Br-SQ_MSN, which, as expected, are slightly larger than those estimated from SEM/TEM images.
+Table 1
+ includes the ζ-potential values of both samples, with very similar behavior. These values are due to deprotonation of silanol groups on the MSN surface (R-Si-OH + H2O ⇌ R–SiO− + H3O+), and the presence of Br-SQ in the mesopores did not affect the surface charge of the Br-SQ_MSN nanosystem.
